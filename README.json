@@ -1,0 +1,2119 @@
+{
+  "items": [
+    {
+      "description": "It's like decorating a beautiful Christmas tree in a room. Sometimes a small web page with cool effects will make your project shine. This is a very fun series, I want to collect those cool effects that are common on the page.\nNot limited to any framework (react, vue, angular, etc.), as long as the effect can be simply inserted into the page, you can send it to me, I like them and hope you like them too.\n",
+      "items": [],
+      "title": "🚀 A series of exquisite and compact web page cool effects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jquery.adaptive-backgrounds.js",
+          "description": "A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-25T16:54:49Z",
+            "owner": "briangonzalez",
+            "repo": "jquery.adaptive-backgrounds.js",
+            "stars": 6496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery.ripples",
+          "description": "Add a water ripple effect to your background using WebGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-05T00:29:32Z",
+            "owner": "sirxemic",
+            "repo": "jquery.ripples",
+            "stars": 1132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "particles-bg",
+          "description": "React component for particles backgrounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-02T03:48:13Z",
+            "owner": "lindelof",
+            "repo": "particles-bg",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegmentEffect",
+          "description": "Background image segment effect as seen on [Filippo Bello's Portfolio].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-04-06T07:25:32Z",
+            "owner": "codrops",
+            "repo": "SegmentEffect",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MorphingBackgroundShapes",
+          "description": "A decorative website background effect where SVG shapes morph and transform on scroll..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-05-23T11:00:34Z",
+            "owner": "codrops",
+            "repo": "MorphingBackgroundShapes",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparticles",
+          "description": "Vanilla particles which can be used in a background or in a container, very fast and lightweight.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-25T07:13:16Z",
+            "owner": "simeydotme",
+            "repo": "sparticles",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "particles-bg-vue",
+          "description": "A vue.js particles animation background component. Use it to make your website look cool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-03-20T03:25:31Z",
+            "owner": "lindelof",
+            "repo": "particles-bg-vue",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery-bgswitcher",
+          "description": "Switch the background-image with using effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-31T03:23:45Z",
+            "owner": "rewish",
+            "repo": "jquery-bgswitcher",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageGridMotionEffect",
+          "description": "A motion hover effect for a background grid of images..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-23T09:12:59Z",
+            "owner": "codrops",
+            "repo": "ImageGridMotionEffect",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BackgroundScaleHoverEffect",
+          "description": "Recreation of the background scale hover effect seen on the DDD Hotel website using CSS clip paths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-03-11T15:05:46Z",
+            "owner": "codrops",
+            "repo": "BackgroundScaleHoverEffect",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery-warpdrive-plugin",
+          "description": "Warp drive is a lightweight jQuery plugin that helps you create a cool, interactive, configurable, HTML5 canvas based warp drive/starfield effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-01T03:51:56Z",
+            "owner": "NiklasKnaack",
+            "repo": "jquery-warpdrive-plugin",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fixed-background-effect",
+          "description": "A simple template that takes advantage of the background-attachment CSS property to create a fixed background effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-03-25T12:53:48Z",
+            "owner": "codyhouse",
+            "repo": "fixed-background-effect",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Background Decoration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cursor-effectss",
+          "description": "Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-26T12:24:18Z",
+            "owner": "tholman",
+            "repo": "cursor-effects",
+            "stars": 4039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-tilt",
+          "description": "Parallax tilt hover effect for React JS - tilt.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-15T14:11:14Z",
+            "owner": "jonathandion",
+            "repo": "react-tilt",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webgl-mouseover-effects",
+          "description": "Demos for the tutorial on how to achieve an interactive mouseover/hover effect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-18T14:49:29Z",
+            "owner": "akella",
+            "repo": "webgl-mouseover-effects",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hover3d",
+          "description": "Simple jQuery plugin for 3d Hover effect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-01-02T03:13:22Z",
+            "owner": "ariona",
+            "repo": "hover3d",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageTrailEffects",
+          "description": "A set of effects for mouse-following image trails that show a random series of images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-07T11:15:22Z",
+            "owner": "codrops",
+            "repo": "ImageTrailEffects",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mouse-particles",
+          "description": "AboutA mouse particle effect react component",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-01T03:48:40Z",
+            "owner": "lindelof",
+            "repo": "react-mouse-particles",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magneticHover",
+          "description": "magneticHover lets you trigger hover effect on the element when the cursor is near it, but not over it yet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T04:38:14Z",
+            "owner": "Halo-Lab",
+            "repo": "magnetic-hover",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuepress-plugin-cursor-effects",
+          "description": "Add a cute click effect to your mouse in your vuepress!",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-08-18T02:15:36Z",
+            "owner": "moefyit",
+            "repo": "vuepress-plugin-cursor-effects",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mouse-text-shadow",
+          "description": "CSS shadow effect & JavaScript mouse move",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-23T15:36:22Z",
+            "owner": "Isa2008",
+            "repo": "mouse-text-shadow",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery-animate3d",
+          "description": "jQuery plugin that gives elements a 3d mouse over effect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-06-23T23:36:49Z",
+            "owner": "putnamn21",
+            "repo": "jquery-animate3d",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Mouse Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Makisu",
+          "description": "An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-07-28T05:16:46Z",
+            "owner": "soulwire",
+            "repo": "Makisu",
+            "stars": 1519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "photon",
+          "description": "CSS 3D Lighting Engine photon.attasi.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-06-25T12:09:10Z",
+            "owner": "thomasxiii",
+            "repo": "photon",
+            "stars": 1446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3dtransforms-3D",
+          "description": "Intro to CSS 3D transforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-03-30T15:26:48Z",
+            "owner": "desandro",
+            "repo": "3dtransforms",
+            "stars": 1011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solar-System",
+          "description": "Solar System data visualisation done in HTML/CSS and a bit of Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-29T09:26:51Z",
+            "owner": "juliangarnier",
+            "repo": "3D-CSS-Solar-System",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS3D.js",
+          "description": "This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-11-22T12:33:51Z",
+            "owner": "unconed",
+            "repo": "CSS3D.js",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-space-shooter",
+          "description": "An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-08T17:19:09Z",
+            "owner": "michaelbromley",
+            "repo": "css-space-shooter",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quintessential-css-cube",
+          "description": "The Quintessential Responsive 3D CSS Cube",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-05-30T23:31:33Z",
+            "owner": "zachstronaut",
+            "repo": "quintessential-css-cube",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cube.less",
+          "description": "3D (animated) cube using only CSS (Less), originally used by LeanCloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2026-07-07T13:18:44Z",
+            "owner": "sparanoid",
+            "repo": "cube.less",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gl-css3d",
+          "description": "Synchronize CSS 3D transformations to a WebGL scene",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-24T03:32:41Z",
+            "owner": "deathcap",
+            "repo": "gl-css3d",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tarjetas-3D",
+          "description": "Código del Tutorial de Tarjetas 3D usando HTML5 y CSS3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-08-14T17:57:23Z",
+            "owner": "falconmasters",
+            "repo": "Tarjetas-3D-con-HTML5-y-CSS3",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "super-mario",
+          "description": "Pure CSS animated 3D Super Mario Icon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-09-23T14:12:09Z",
+            "owner": "Cordobo",
+            "repo": "pure-css-super-mario",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Css 3D Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "imagehover",
+          "description": "Pure CSS Image Hover Effect Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-07-04T15:09:47Z",
+            "owner": "ciar4n",
+            "repo": "imagehover.css",
+            "stars": 1823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vintageJS",
+          "description": "Add a retro/vintage effect to images using the HTML5 canvas element",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T13:57:48Z",
+            "owner": "rendro",
+            "repo": "vintageJS",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magnifier",
+          "description": "Javascript library enabling magnifying glass effect on an images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-17T23:53:11Z",
+            "owner": "mark-rolich",
+            "repo": "Magnifier.js",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diaporama",
+          "description": "Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-02-08T23:16:18Z",
+            "owner": "gre",
+            "repo": "diaporama",
+            "stars": 784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageTiltEffect",
+          "description": "A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-10-06T05:15:33Z",
+            "owner": "codrops",
+            "repo": "ImageTiltEffect",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gridder",
+          "description": "A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-07T22:02:34Z",
+            "owner": "orion3dgames",
+            "repo": "gridder",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThumbnailGridExpandingPreview",
+          "description": "A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-02T11:43:07Z",
+            "owner": "codrops",
+            "repo": "ThumbnailGridExpandingPreview",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiltedpage_scroll",
+          "description": "Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-19T13:11:47Z",
+            "owner": "peachananr",
+            "repo": "tiltedpage_scroll",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeatDistortionEffect",
+          "description": "Animated haze distortion effect for images and text, with WebGL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-11T12:31:59Z",
+            "owner": "lbebber",
+            "repo": "HeatDistortionEffect",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StickyImageEffect",
+          "description": "A sticky image effect for a slideshow inspired by ultanoir's website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-17T22:23:20Z",
+            "owner": "Anemolo",
+            "repo": "StickyImageEffect",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gl-react-image-effects",
+          "description": "universal image app that uses different gl-react components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-19T20:31:31Z",
+            "owner": "gre",
+            "repo": "gl-react-image-effects",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bgswitcher",
+          "description": "Switch the background-image with using effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-31T03:23:45Z",
+            "owner": "rewish",
+            "repo": "jquery-bgswitcher",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FullImageReveal",
+          "description": "A full image reveal effect with fancy thumbnail sliding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-12T19:42:26Z",
+            "owner": "codrops",
+            "repo": "FullImageReveal",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageDraggingEffects",
+          "description": "A set of playful dragging effects for images using various techniques..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-07T16:51:50Z",
+            "owner": "codrops",
+            "repo": "ImageDraggingEffects",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-kenburns-view",
+          "description": "KenBurns Image Effect for React Native Applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-25T07:11:12Z",
+            "owner": "nHiRanZ",
+            "repo": "react-native-kenburns-view",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MotionTransitionEffect",
+          "description": "A speedy motion transition effect for an image slideshow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-11T11:13:41Z",
+            "owner": "codrops",
+            "repo": "MotionTransitionEffect",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FollowCursor",
+          "description": "Rotate elements to create a following effect",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-07-28T22:19:37Z",
+            "owner": "bersLucas",
+            "repo": "FollowCursor",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Image Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typewriterjs",
+          "description": "A simple yet powerful native javascript plugin for a cool typewriter effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-29T09:46:30Z",
+            "owner": "tameemsafi",
+            "repo": "typewriterjs",
+            "stars": 2675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextInputEffects",
+          "description": "Simple styles and effects for enhancing text input interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-03-19T10:59:10Z",
+            "owner": "codrops",
+            "repo": "TextInputEffects",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t-writer.js",
+          "description": "Native typewriter effect, without compromises or dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-21T14:57:58Z",
+            "owner": "ChrisCavs",
+            "repo": "t-writer.js",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t.js",
+          "description": "Lightweight $.Hypertext.Typewriter",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-17T09:40:13Z",
+            "owner": "mntn-dev",
+            "repo": "t.js",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "malarkey",
+          "description": "Simulate a typewriter effect in vanilla JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-30T07:40:51Z",
+            "owner": "yuanqing",
+            "repo": "malarkey",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shuffle-text",
+          "description": "\"shuffle-text\" is JavaScript text effect library such as cool legacy of Flash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T07:35:33Z",
+            "owner": "ics-ikeda",
+            "repo": "shuffle-text",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "power-mode-input",
+          "description": "PowerModeInput can make your text input box more compelling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-19T12:46:16Z",
+            "owner": "lindelof",
+            "repo": "power-mode-input",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-typewriter",
+          "description": "A React component for creating typing animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-11T15:50:26Z",
+            "owner": "ianbjorndilling",
+            "repo": "react-typewriter",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phaser-typewriter",
+          "description": "A phaser helper for the typewriter effect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-03T09:53:04Z",
+            "owner": "netgfx",
+            "repo": "Phaser-typewriter",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery.typer",
+          "description": "The typewriter effect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-03-24T13:16:10Z",
+            "owner": "yckart",
+            "repo": "jquery.typer.js",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinytyper",
+          "description": "A tiny library for creating a typing effect on specified text element.",
+          "children": []
+        }
+      ],
+      "title": "Input Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ModalWindowEffects",
+          "description": "A set of experimental modal window appearance effects with CSS transitions and animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-07-02T08:12:27Z",
+            "owner": "codrops",
+            "repo": "ModalWindowEffects",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngView-animation-effects",
+          "description": "Demonstration of different animation effects with AngularJS ngView directive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-04-10T06:41:52Z",
+            "owner": "dfsq",
+            "repo": "ngView-animation-effects",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PageRevealEffects",
+          "description": "Some ideas for modern multi-layer page transitions using CSS Animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-06-01T12:38:57Z",
+            "owner": "codrops",
+            "repo": "PageRevealEffects",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transitions",
+          "description": "Transition effect for Cocos Creator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-25T11:11:52Z",
+            "owner": "2youyou2",
+            "repo": "transitions",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlitchSlideshow",
+          "description": "A slideshow that uses a CSS glitch effect for slide transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-03-10T08:26:09Z",
+            "owner": "codrops",
+            "repo": "GlitchSlideshow",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WobblySlideshowEffect",
+          "description": "The slides in this slideshow wobble as they move. The effect is based on Sergey Valiukh's Dribbble shot and was made using Snap.svg and morphing SVG paths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-10-24T11:46:53Z",
+            "owner": "codrops",
+            "repo": "WobblySlideshowEffect",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animated-transition-effects",
+          "description": "A library of animated transition effects, powered by CSS Animations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-05-11T11:09:00Z",
+            "owner": "codyhouse",
+            "repo": "animated-transition-effects",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image-mask-effect",
+          "description": "An immersive transition effect powered by image masks and CSS transforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-10-08T03:57:37Z",
+            "owner": "codyhouse",
+            "repo": "image-mask-effect",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Html_Transition_Effect_Demo",
+          "description": "It's pretty hover effects on circles with CSS Transitions which is very useful in dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-08-21T09:55:30Z",
+            "owner": "chauhanvipul87",
+            "repo": "Html_Transition_Effect_Demo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS3-hover-transition-effect",
+          "description": "CSS3-hover-transition-effect | Cipher trick",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-01-17T06:33:57Z",
+            "owner": "Inaamhusain",
+            "repo": "CSS3-hover-transition-effect",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Transition Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RainEffect",
+          "description": "Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-12T15:45:45Z",
+            "owner": "codrops",
+            "repo": "RainEffect",
+            "stars": 1771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snowstorm",
+          "description": "Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-05T16:56:33Z",
+            "owner": "scottschiller",
+            "repo": "Snowstorm",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matrix-rain",
+          "description": "The famous Matrix rain effect of falling green characters in a terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-21T01:33:53Z",
+            "owner": "nojvek",
+            "repo": "matrix-rain",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smoke.js",
+          "description": "Small but good javascript smoke effect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T18:16:25Z",
+            "owner": "bijection",
+            "repo": "smoke.js",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snowstorm",
+          "description": "A Snow Effect component for React. Uses Snowstorm under the hood.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T20:36:56Z",
+            "owner": "burakcan",
+            "repo": "react-snowstorm",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "the-matrix-effect",
+          "description": "The incredible effect of rain of letters in the style of the Matrix trilogy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-23T18:18:23Z",
+            "owner": "JefersonLucas",
+            "repo": "the-matrix-effect",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aframe-rain",
+          "description": "aframe-rain is Rainfall effect component for A-Frame which displays a lot of rain drop/splash objects by using instancing technique with good performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-23T19:52:45Z",
+            "owner": "takahirox",
+            "repo": "aframe-rain",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snowy",
+          "description": "A HTML5 snow effect with random generated snow flakes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-12-29T16:57:35Z",
+            "owner": "fforw",
+            "repo": "snowy",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-snow-effect",
+          "description": "react-snow-effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-24T23:48:27Z",
+            "owner": "jungledre",
+            "repo": "react-snow-effect",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rainbow",
+          "description": "A text effect jquery plugin (tested with jQuery 1.6.3)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-06-20T19:29:36Z",
+            "owner": "DavianWolf",
+            "repo": "Rainbow.js",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Rain & Snow"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ParticleEffectsButtons",
+          "description": "A little library that can be used for bursting particles effects on buttons and other elements",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-05T18:29:36Z",
+            "owner": "codrops",
+            "repo": "ParticleEffectsButtons",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElasticProgress",
+          "description": "Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-14T17:04:04Z",
+            "owner": "codrops",
+            "repo": "ElasticProgress",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagneticButtons",
+          "description": "A set of buttons with a magnetic interaction and a hover effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-24T10:23:14Z",
+            "owner": "codrops",
+            "repo": "MagneticButtons",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-ripple-effect",
+          "description": "Pure CSS (no JavaScript) implementation of Android Material design \"ripple\" animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-04-15T21:29:49Z",
+            "owner": "mladenplavsic",
+            "repo": "css-ripple-effect",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-particle-buttons",
+          "description": "A bursting particles effects buttons component",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-22T04:42:39Z",
+            "owner": "dreambo8563",
+            "repo": "vue-particle-effect-buttons",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-parallax-button",
+          "description": "Bring your react buttons to next level with parallax effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-08T20:38:31Z",
+            "owner": "tomekvenits",
+            "repo": "react-parallax-button",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nativescript-shine-button",
+          "description": "NativeScript plugin that add shine effect to your button.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-15T13:43:07Z",
+            "owner": "hamdiwanis",
+            "repo": "nativescript-shine-button",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RippleButton",
+          "description": "A Kony Visualizer reusable component of a button with a Material Theme ripple effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-07T15:54:03Z",
+            "owner": "mig82",
+            "repo": "RippleButton",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Button Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whirl",
+          "description": "CSS loading animations with minimal effort!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-01-03T17:33:53Z",
+            "owner": "jh3y",
+            "repo": "whirl",
+            "stars": 1832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "three-dots",
+          "description": "🔮 CSS loading animations made by single element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-10-23T01:20:05Z",
+            "owner": "nzbin",
+            "repo": "three-dots",
+            "stars": 1343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fakeLoader",
+          "description": "fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-02-25T21:35:46Z",
+            "owner": "joaopereirawd",
+            "repo": "fakeLoader.js",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PageLoadingEffects",
+          "description": "Modern ways of revealing new content using SVG animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-04-23T08:08:18Z",
+            "owner": "codrops",
+            "repo": "PageLoadingEffects",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asset-Loading-Effects",
+          "description": "Loading effects for assets including some built in animated reveals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-22T20:11:39Z",
+            "owner": "ZachSaucier",
+            "repo": "Asset-Loading-Effects",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArtWorx-xLoader",
+          "description": "Pure css cross-browser loading animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-11-18T21:49:29Z",
+            "owner": "anastawfik",
+            "repo": "ArtWorx-xLoader",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-page-loader",
+          "description": "Lightweight CSS loading animations to use when page loads",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-10-07T05:56:10Z",
+            "owner": "Viglino",
+            "repo": "css-page-loader",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoadEffect",
+          "description": "Distributed Load Testing in Javascript-like Scripting Language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-22T15:13:00Z",
+            "owner": "Auklets",
+            "repo": "LoadEffect",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Loading Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audio-Input-Effects",
+          "description": "Live Audio Input effects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-23T10:47:14Z",
+            "owner": "cwilso",
+            "repo": "Audio-Input-Effects",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soma-fm-player",
+          "description": "SomaFM Music Player Web-App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T02:10:03Z",
+            "owner": "rainner",
+            "repo": "soma-fm-player",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beez",
+          "description": "100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2014-06-13T12:34:05Z",
+            "owner": "gre",
+            "repo": "beez",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soundbank",
+          "description": "Simple Web Audio API based reverb effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-02-11T11:39:26Z",
+            "owner": "mmckegg",
+            "repo": "soundbank-reverb",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoundEffectManager",
+          "description": "A simple sound effect manager for playing sounds using the awesome HTML 5 Web Audio API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-05T11:53:51Z",
+            "owner": "HenrikJoreteg",
+            "repo": "SoundEffectManager",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Audio Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "expo-chroma-key-camera",
+          "description": "Live green-screen effect with Expo and THREE.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-26T16:41:24Z",
+            "owner": "EvanBacon",
+            "repo": "expo-chroma-key-camera",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chroma-key-camera",
+          "description": "Live green-screen effect with Expo and THREE.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-26T16:41:24Z",
+            "owner": "EvanBacon",
+            "repo": "expo-chroma-key-camera",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canvas-video-effects",
+          "description": "Live Image Processing w/ getUserMedia() & Web Workers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-01-23T05:11:24Z",
+            "owner": "conorbuck",
+            "repo": "canvas-video-effects",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chroma-cam",
+          "description": "Green screen effect in your webcam",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-07-21T15:14:34Z",
+            "owner": "rprieto",
+            "repo": "chroma-cam",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChuckClose-SparkAR",
+          "description": "A simple example how to use Visual Shaders with JS in Spark AR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-22T12:00:59Z",
+            "owner": "kamend",
+            "repo": "ChuckClose-SparkAR",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypersampler",
+          "description": "Hyhypeperersamamplplerer: a Spark AR camera effec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-22T13:38:52Z",
+            "owner": "positlabs",
+            "repo": "spark-hypersampler",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webcam-effects",
+          "description": "Webcam Effects in Three.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-31T14:48:03Z",
+            "owner": "adamlamoglia",
+            "repo": "webcam-effects",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS-Webcam-effects",
+          "description": "Webcam effects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-16T05:00:36Z",
+            "owner": "Gixxern",
+            "repo": "JS---Webcam-effects",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "WebCam Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lazy-line-painter",
+          "description": "Lazy Line Painter - A Modern JS library for SVG path animation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-12T05:15:03Z",
+            "owner": "merri-ment",
+            "repo": "lazy-line-painter",
+            "stars": 1981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bounty",
+          "description": "Javascript and SVG odometer effect library with motion blur",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-24T05:17:29Z",
+            "owner": "coderitual",
+            "repo": "bounty",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery-drawsvg",
+          "description": "Lightweight, simple to use jQuery plugin to animate SVG paths",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-22T01:07:06Z",
+            "owner": "lcdsantos",
+            "repo": "jquery-drawsvg",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrganicShapeAnimations",
+          "description": "Some shape morphing hover effects on images using SVG clipPath.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-06-28T12:17:09Z",
+            "owner": "codrops",
+            "repo": "OrganicShapeAnimations",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "menu-animations",
+          "description": "Four different menu animations for menu button toggle between hamburger, cross and back icon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T12:00:19Z",
+            "owner": "tamino-martinius",
+            "repo": "ui-snippets",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DistortedLinkEffects",
+          "description": "Some ideas for decorative link distortion effects using SVG filters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-13T11:56:17Z",
+            "owner": "codrops",
+            "repo": "DistortedLinkEffects",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FancyLetterAnimation",
+          "description": "An experimental SVG letter animation inspired by the Dribbble shot \"Shading Letters in Illustrator\" by Jake Bartlett's. Powered by Julian Garnier's anime.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-12-19T11:16:13Z",
+            "owner": "codrops",
+            "repo": "FancyLetterAnimation",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svg-animation",
+          "description": "The Illusion of Life: An SVG Animation Case Study",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-26T13:29:58Z",
+            "owner": "hellomichael",
+            "repo": "svg-animation",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circle-svg-animation",
+          "description": "Circle SVG Animation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-11-01T12:33:33Z",
+            "owner": "crealime",
+            "repo": "circle-svg-animation",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IsometricCityAnimation",
+          "description": "This is a simple svg isometric city animation with GSAP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-02-13T08:22:30Z",
+            "owner": "projapati66",
+            "repo": "Svg-IsometricCityAnimation",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "SVG Animations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fireworks",
+          "description": "fireworks Particles engine in javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-01-03T12:46:32Z",
+            "owner": "jeromeetienne",
+            "repo": "fireworks.js",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "silly fireworks",
+          "description": "A silly JavaScript animation experiment, originally written in 2005.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2011-07-04T01:05:38Z",
+            "owner": "scottschiller",
+            "repo": "fireworks.js",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fireworks-webgl",
+          "description": "WebGL + Web Audio API = Sound-driven fireworks!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-28T18:26:12Z",
+            "owner": "ondras",
+            "repo": "fireworks-webgl",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fireworks-vr",
+          "description": "WebGL Fireworks with ThreeJS In action: https://qake.se/fw/index.html",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-22T20:52:24Z",
+            "owner": "Lallassu",
+            "repo": "fireworks",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skyrocket",
+          "description": "Design and Display fireworks on HTML canvas with Skyrocket.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-05T05:12:41Z",
+            "owner": "zarocknz",
+            "repo": "javascript-skyrocket",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cool-fireworks",
+          "description": "a particle fireworks effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-23T05:48:04Z",
+            "owner": "PixxxeL",
+            "repo": "js-fireworks",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Fireworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aquarelle",
+          "description": "Aquarelle is a watercolor effect component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-20T16:55:31Z",
+            "owner": "Ramotion",
+            "repo": "aquarelle",
+            "stars": 1824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "firealgorithm",
+          "description": "A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T14:29:38Z",
+            "owner": "filipedeschamps",
+            "repo": "doom-fire-algorithm",
+            "stars": 1418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsfx",
+          "description": "This is a JavaScript library for sound effect generation and is supported on most current browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-13T19:12:07Z",
+            "owner": "loov",
+            "repo": "jsfx",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bad-tv-shader",
+          "description": "Simulates a bad TV via horizontal distortion and vertical roll.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-28T00:09:18Z",
+            "owner": "felixturner",
+            "repo": "bad-tv-shader",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animatelo",
+          "description": "Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-28T21:37:12Z",
+            "owner": "gibbok",
+            "repo": "animatelo",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svg-Circus",
+          "description": "Create cool animated SVG spinners, loaders and other looped animations in seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-11-06T23:48:28Z",
+            "owner": "alexk111",
+            "repo": "SVG-Circus",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "map-effects-100",
+          "description": "Cool tips to design UI/UX on Leaflet maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-19T16:16:36Z",
+            "owner": "muxlab",
+            "repo": "map-effects-100",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glitch",
+          "description": "A glitched effect for DOM elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-13T02:39:27Z",
+            "owner": "sjhewitt",
+            "repo": "glitch.js",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spread",
+          "description": "Spread is a small experiment leveraging simple CSS3D transforms to create a colored plane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-05-16T10:05:56Z",
+            "owner": "roboshoes",
+            "repo": "spread",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pickout",
+          "description": "Cool and powerful effect to select fields. Javascript vanilla and ~2kb gzipped",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-11T03:48:06Z",
+            "owner": "ktquez",
+            "repo": "pickout",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starry.night",
+          "description": "The Starry Night animation in put.io's hero banner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-04T15:02:49Z",
+            "owner": "atesgoral",
+            "repo": "put.io.starry.night",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frosted-glass",
+          "description": "Add a live frosted glass blur effect over any type of web content, including text.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2020-05-29T21:54:14Z",
+            "owner": "adriancarriger",
+            "repo": "frosted-glass",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EyeCandy",
+          "description": "Animated images that are superficially attractive and entertaining but intellectually undemanding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-28T12:04:08Z",
+            "owner": "mykle1",
+            "repo": "MMM-EyeCandy",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dissolve-generator",
+          "description": "Cool 2D dissolve effect generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T23:12:56Z",
+            "owner": "transitive-bullshit",
+            "repo": "dissolve-generator",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lottie-sample",
+          "description": "Demo after effect animation on web using Lottie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-05-08T17:36:21Z",
+            "owner": "codeaholicguy",
+            "repo": "lottie-sample",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileComponent",
+          "description": "dynamic effect component on mobile web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-05-17T08:58:43Z",
+            "owner": "zhangmengxue",
+            "repo": "MobileComponent",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-reducer-side-effects",
+          "description": "Easy to follow side effect library for redux reducers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-18T13:55:19Z",
+            "owner": "danrigsby",
+            "repo": "redux-reducer-side-effects",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webEffects",
+          "description": "jQuery Parallax is a script that simulates the parallax effect as seen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-06-25T23:23:06Z",
+            "owner": "AsmaBOUSSALEM",
+            "repo": "webEffects",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Other Effect"
+    },
+    {
+      "description": "Contributions welcome! We welcome all contributions, especially by those who worked through the list and noticed some missing / unclear information! Please use the pull requests to discuss about the usefulness of a change.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:41:13.349Z",
+    "original_repository": "lindelof/awesome-web-effect",
+    "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
+    "enhanced_repository": "enhansome/enhansome-web-effect",
+    "enhanced_repository_description": null,
+    "title": "awesome-web-effect with stars"
+  }
+}
