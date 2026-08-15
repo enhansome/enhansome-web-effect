@@ -193,7 +193,7 @@
             "last_commit": "2026-02-26T12:24:18Z",
             "owner": "tholman",
             "repo": "cursor-effects",
-            "stars": 4040
+            "stars": 4041
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2012-06-25T12:09:10Z",
             "owner": "thomasxiii",
             "repo": "photon",
-            "stars": 1446
+            "stars": 1445
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2022-07-04T15:09:47Z",
             "owner": "ciar4n",
             "repo": "imagehover.css",
-            "stars": 1823
+            "stars": 1822
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-07-14T13:57:48Z",
             "owner": "rendro",
             "repo": "vintageJS",
-            "stars": 843
+            "stars": 842
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2022-09-12T15:45:45Z",
             "owner": "codrops",
             "repo": "RainEffect",
-            "stars": 1771
+            "stars": 1772
           }
         },
         {
@@ -1305,7 +1305,7 @@
             "last_commit": "2023-01-03T17:33:53Z",
             "owner": "jh3y",
             "repo": "whirl",
-            "stars": 1832
+            "stars": 1833
           }
         },
         {
@@ -2109,7 +2109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:55:39.803Z",
+    "last_updated": "2026-08-15T00:32:14.819Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
     "enhanced_repository": "enhansome/enhansome-web-effect",

@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,396 | 🐛 99 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,794 | 🐛 100 | 📅 2026-06-30
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,040 | 🐛 18 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,041 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 399 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -41,7 +41,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Css 3D Effect
 
 * [Makisu](https://github.com/soulwire/Makisu) ⭐ 1,519 | 🐛 10 | 🌐 CSS | 📅 2022-07-28 - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
-* [photon](https://github.com/thomasxiii/photon) ⭐ 1,446 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
+* [photon](https://github.com/thomasxiii/photon) ⭐ 1,445 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
 * [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,012 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
 * [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 473 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
 * [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 370 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
@@ -54,8 +54,8 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Image Effect
 
-* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,823 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
-* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 843 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
+* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,822 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
+* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 842 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
 * [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 833 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
@@ -101,7 +101,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Rain & Snow
 
-* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,771 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
+* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,772 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 * [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 557 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
 * [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 445 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
 * [smoke.js](https://github.com/bijection/smoke.js) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
@@ -125,7 +125,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Loading Effect
 
-* [Whirl](https://github.com/jh3y/whirl) ⭐ 1,832 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
+* [Whirl](https://github.com/jh3y/whirl) ⭐ 1,833 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,343 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
