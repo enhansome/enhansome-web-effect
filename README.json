@@ -193,7 +193,7 @@
             "last_commit": "2026-02-26T12:24:18Z",
             "owner": "tholman",
             "repo": "cursor-effects",
-            "stars": 4041
+            "stars": 4042
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2021-06-29T09:26:51Z",
             "owner": "juliangarnier",
             "repo": "3D-CSS-Solar-System",
-            "stars": 473
+            "stars": 472
           }
         },
         {
@@ -569,7 +569,7 @@
             "last_commit": "2025-10-07T22:02:34Z",
             "owner": "orion3dgames",
             "repo": "gridder",
-            "stars": 458
+            "stars": 459
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2022-09-12T15:45:45Z",
             "owner": "codrops",
             "repo": "RainEffect",
-            "stars": 1772
+            "stars": 1771
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2023-10-23T01:20:05Z",
             "owner": "nzbin",
             "repo": "three-dots",
-            "stars": 1343
+            "stars": 1342
           }
         },
         {
@@ -1437,7 +1437,7 @@
             "last_commit": "2026-07-15T02:10:03Z",
             "owner": "rainner",
             "repo": "soma-fm-player",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -2049,7 +2049,7 @@
             "last_commit": "2018-05-08T17:36:21Z",
             "owner": "codeaholicguy",
             "repo": "lottie-sample",
-            "stars": 13
+            "stars": 12
           }
         },
         {
@@ -2109,7 +2109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:32:14.819Z",
+    "last_updated": "2026-08-16T00:34:11.822Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
     "enhanced_repository": "enhansome/enhansome-web-effect",

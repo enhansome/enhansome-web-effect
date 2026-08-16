@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,794 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,148 | 🐛 100 | 📅 2026-06-30
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,041 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,042 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 399 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -43,7 +43,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Makisu](https://github.com/soulwire/Makisu) ⭐ 1,519 | 🐛 10 | 🌐 CSS | 📅 2022-07-28 - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
 * [photon](https://github.com/thomasxiii/photon) ⭐ 1,445 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
 * [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,012 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
-* [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 473 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
+* [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 472 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
 * [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 370 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
 * [css-space-shooter](https://github.com/michaelbromley/css-space-shooter) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-08 - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
 * [quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) ⭐ 68 | 🐛 0 | 🌐 CSS | 📅 2021-05-30 - The Quintessential Responsive 3D CSS Cube
@@ -59,7 +59,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 833 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
-* [gridder](https://github.com/oriongunning/gridder) ⭐ 458 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
+* [gridder](https://github.com/oriongunning/gridder) ⭐ 459 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
 * [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 358 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
 * [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 317 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
 * [HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) ⭐ 308 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-11 - Animated haze distortion effect for images and text, with WebGL
@@ -101,7 +101,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Rain & Snow
 
-* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,772 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
+* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,771 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 * [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 557 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
 * [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 445 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
 * [smoke.js](https://github.com/bijection/smoke.js) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
@@ -126,7 +126,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Loading Effect
 
 * [Whirl](https://github.com/jh3y/whirl) ⭐ 1,833 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
-* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,343 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
+* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,342 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
 * [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
@@ -137,7 +137,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Audio Effect
 
 * [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) ⭐ 562 | 🐛 9 | 🌐 JavaScript | 📅 2024-07-23 - Live Audio Input effects
-* [soma-fm-player](https://github.com/rainner/soma-fm-player) ⭐ 146 | 🐛 22 | 🌐 JavaScript | 📅 2026-07-15 - SomaFM Music Player Web-App
+* [soma-fm-player](https://github.com/rainner/soma-fm-player) ⭐ 147 | 🐛 22 | 🌐 JavaScript | 📅 2026-07-15 - SomaFM Music Player Web-App
 * [beez](https://github.com/gre/beez) ⚠️ Archived - 100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)
 * [soundbank](https://github.com/mmckegg/soundbank-reverb) ⭐ 22 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-11 - Simple Web Audio API based reverb effect.
 * [SoundEffectManager](https://github.com/HenrikJoreteg/SoundEffectManager) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2015-09-05 - A simple sound effect manager for playing sounds using the awesome HTML 5 Web Audio API
@@ -191,7 +191,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [frosted-glass](https://github.com/adriancarriger/frosted-glass) ⚠️ Archived - Add a live frosted glass blur effect over any type of web content, including text.
 * [EyeCandy](https://github.com/mykle1/MMM-EyeCandy) ⭐ 56 | 🐛 3 | 🌐 JavaScript | 📅 2024-07-28 - Animated images that are superficially attractive and entertaining but intellectually undemanding.
 * [dissolve-generator](https://github.com/transitive-bullshit/dissolve-generator) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Cool 2D dissolve effect generator
-* [lottie-sample](https://github.com/codeaholicguy/lottie-sample) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2018-05-08 - Demo after effect animation on web using Lottie
+* [lottie-sample](https://github.com/codeaholicguy/lottie-sample) ⭐ 12 | 🐛 0 | 🌐 CSS | 📅 2018-05-08 - Demo after effect animation on web using Lottie
 * [MobileComponent](https://github.com/zhangmengxue/MobileComponent) ⭐ 7 | 🐛 1 | 🌐 CSS | 📅 2015-05-17 - dynamic effect component on mobile web
 * [redux-reducer-side-effects](https://github.com/danrigsby/redux-reducer-side-effects) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-18 - Easy to follow side effect library for redux reducers
 * [webEffects](https://github.com/AsmaBOUSSALEM/webEffects) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2014-06-25 - jQuery Parallax is a script that simulates the parallax effect as seen
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
