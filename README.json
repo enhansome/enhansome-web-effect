@@ -193,7 +193,7 @@
             "last_commit": "2026-02-26T12:24:18Z",
             "owner": "tholman",
             "repo": "cursor-effects",
-            "stars": 4041
+            "stars": 4042
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2022-09-12T15:45:45Z",
             "owner": "codrops",
             "repo": "RainEffect",
-            "stars": 1771
+            "stars": 1772
           }
         },
         {
@@ -1895,7 +1895,7 @@
             "last_commit": "2019-08-28T00:09:18Z",
             "owner": "felixturner",
             "repo": "bad-tv-shader",
-            "stars": 520
+            "stars": 521
           }
         },
         {
@@ -2109,7 +2109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T00:31:50.521Z",
+    "last_updated": "2026-08-18T00:32:06.993Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
     "enhanced_repository": "enhansome/enhansome-web-effect",
