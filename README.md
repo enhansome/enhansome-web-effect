@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,996 | 🐛 102 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,424 | 🐛 102 | 📅 2026-08-18
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -55,7 +55,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Image Effect
 
 * [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,822 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
-* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 842 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
+* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 841 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
 * [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 833 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
@@ -88,7 +88,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Transition Effect
 
-* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,013 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
+* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,014 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
 * [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2015-04-10 - Demonstration of different animation effects with AngularJS ngView directive.
 * [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 138 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
 * [transitions](https://github.com/2youyou2/transitions) ⭐ 123 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-25 - Transition effect for Cocos Creator
@@ -114,7 +114,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Button Effect
 
-* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,264 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
+* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,263 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 878 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
 * [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 485 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 346 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
@@ -155,8 +155,8 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### SVG Animations
 
-* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,981 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
-* [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
+* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,980 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
+* [bounty](https://github.com/coderitual/bounty) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
@@ -177,9 +177,9 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Other Effect
 
-* [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,824 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
+* [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,823 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
 * [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,418 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
-* [jsfx](https://github.com/loov/jsfx) ⭐ 584 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
+* [jsfx](https://github.com/loov/jsfx) ⭐ 583 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 521 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 494 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
 * [svg-Circus](https://github.com/alexk111/SVG-Circus) ⭐ 331 | 🐛 2 | 🌐 JavaScript | 📅 2014-11-06 - Create cool animated SVG spinners, loaders and other looped animations in seconds.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
