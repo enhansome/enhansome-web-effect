@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,671 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,827 | 🐛 102 | 📅 2026-08-18
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -74,7 +74,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Input Effect
 
-* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,675 | 🐛 94 | 🌐 JavaScript | 📅 2025-04-29 - A simple yet powerful native javascript plugin for a cool typewriter effect.
+* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,674 | 🐛 94 | 🌐 JavaScript | 📅 2025-04-29 - A simple yet powerful native javascript plugin for a cool typewriter effect.
 * [TextInputEffects](https://github.com/codrops/TextInputEffects) ⭐ 953 | 🐛 3 | 🌐 CSS | 📅 2017-03-19 - Simple styles and effects for enhancing text input interactions.
 * [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 510 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
 * [t.js](https://github.com/mntn-dev/t.js) ⚠️ Archived - Lightweight $.Hypertext.Typewriter
@@ -88,7 +88,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Transition Effect
 
-* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,014 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
+* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,013 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
 * [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2015-04-10 - Demonstration of different animation effects with AngularJS ngView directive.
 * [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 138 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
 * [transitions](https://github.com/2youyou2/transitions) ⭐ 123 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-25 - Transition effect for Cocos Creator
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,823 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,418 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,417 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 583 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 521 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 494 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
