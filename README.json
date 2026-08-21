@@ -32,7 +32,7 @@
                 "last_commit": "2021-10-05T00:29:32Z",
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1131
+                "stars": 1132
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-02-26T12:24:18Z",
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4042
+                "stars": 4043
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "last_commit": "2023-07-21T01:33:53Z",
                 "owner": "nojvek",
                 "repo": "matrix-rain",
-                "stars": 445
+                "stars": 442
               }
             },
             {
@@ -2251,7 +2251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T00:32:16.880Z",
+    "last_updated": "2026-08-21T00:34:51.607Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_id": 281834526,
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
