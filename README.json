@@ -17,7 +17,7 @@
                 "last_commit": "2017-11-25T16:54:49Z",
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6492
+                "stars": 6493
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-02-26T12:24:18Z",
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4043
+                "stars": 4045
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2023-10-15T14:11:14Z",
                 "owner": "jonathandion",
                 "repo": "react-tilt",
-                "stars": 430
+                "stars": 431
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2020-03-30T15:26:48Z",
                 "owner": "desandro",
                 "repo": "3dtransforms",
-                "stars": 1012
+                "stars": 1013
               }
             },
             {
@@ -2251,7 +2251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T00:34:51.607Z",
+    "last_updated": "2026-08-22T00:31:47.691Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_id": 281834526,
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
