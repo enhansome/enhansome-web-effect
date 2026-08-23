@@ -17,7 +17,7 @@
                 "last_commit": "2017-11-25T16:54:49Z",
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6493
+                "stars": 6492
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-02-26T12:24:18Z",
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4045
+                "stars": 4046
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2019-08-07T11:15:22Z",
                 "owner": "codrops",
                 "repo": "ImageTrailEffects",
-                "stars": 226
+                "stars": 225
               }
             },
             {
@@ -1296,7 +1296,7 @@
                 "last_commit": "2021-02-24T10:23:14Z",
                 "owner": "codrops",
                 "repo": "MagneticButtons",
-                "stars": 485
+                "stars": 484
               }
             },
             {
@@ -2251,7 +2251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T00:31:47.691Z",
+    "last_updated": "2026-08-23T00:35:01.821Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_id": 281834526,
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
