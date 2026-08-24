@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,305 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -15,7 +15,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,492 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
 * [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,132 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 669 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
-* [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 541 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
+* [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 540 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
 * [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) ⭐ 396 | 🐛 2 | 🌐 HTML | 📅 2017-05-23 - A decorative website background effect where SVG shapes morph and transform on scroll..
 * [sparticles](https://github.com/simeydotme/sparticles) ⭐ 283 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-25 - Vanilla particles which can be used in a background or in a container, very fast and lightweight.
 * [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) ⭐ 232 | 🐛 3 | 🌐 Vue | 📅 2021-03-20 - A vue.js particles animation background component. Use it to make your website look cool.
@@ -27,11 +27,11 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,049 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,050 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 431 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 399 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
-* [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 225 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
+* [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 226 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
 * [mouse-particles](https://github.com/lindelof/react-mouse-particles) ⭐ 115 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-01 - AboutA mouse particle effect react component
 * [magneticHover](https://github.com/Halo-Lab/magneticHover) ⭐ 41 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-07 - magneticHover lets you trigger hover effect on the element when the cursor is near it, but not over it yet
 * [vuepress-plugin-cursor-effects](https://github.com/moefyit/vuepress-plugin-cursor-effects) ⚠️ Archived - Add a cute click effect to your mouse in your vuepress!
@@ -116,7 +116,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,263 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 878 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
-* [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 484 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
+* [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 485 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 346 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
 * [vue-particle-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) ⭐ 260 | 🐛 38 | 🌐 HTML | 📅 2024-10-22 - A bursting particles effects buttons component
 * [react-parallax-button](https://github.com/venits/react-parallax-button) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-08 - Bring your react buttons to next level with parallax effect.
@@ -181,7 +181,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,417 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 583 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 521 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
-* [animatelo](https://github.com/gibbok/animatelo) ⭐ 494 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
+* [animatelo](https://github.com/gibbok/animatelo) ⭐ 495 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
 * [svg-Circus](https://github.com/alexk111/SVG-Circus) ⭐ 331 | 🐛 2 | 🌐 JavaScript | 📅 2014-11-06 - Create cool animated SVG spinners, loaders and other looped animations in seconds.
 * [map-effects-100](https://github.com/muxlab/map-effects-100) ⭐ 202 | 🐛 4 | 🌐 JavaScript | 📅 2016-08-19 - Cool tips to design UI/UX on Leaflet maps.
 * [glitch](https://github.com/sjhewitt/glitch.js) ⭐ 194 | 🐛 4 | 🌐 JavaScript | 📅 2016-11-13 - A glitched effect for DOM elements.

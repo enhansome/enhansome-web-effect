@@ -62,7 +62,7 @@
                 "last_commit": "2017-04-06T07:25:32Z",
                 "owner": "codrops",
                 "repo": "SegmentEffect",
-                "stars": 541
+                "stars": 540
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-02-26T12:24:18Z",
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4049
+                "stars": 4050
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2019-08-07T11:15:22Z",
                 "owner": "codrops",
                 "repo": "ImageTrailEffects",
-                "stars": 225
+                "stars": 226
               }
             },
             {
@@ -1296,7 +1296,7 @@
                 "last_commit": "2021-02-24T10:23:14Z",
                 "owner": "codrops",
                 "repo": "MagneticButtons",
-                "stars": 484
+                "stars": 485
               }
             },
             {
@@ -2043,7 +2043,7 @@
                 "last_commit": "2026-02-28T21:37:12Z",
                 "owner": "gibbok",
                 "repo": "animatelo",
-                "stars": 494
+                "stars": 495
               }
             },
             {
@@ -2251,7 +2251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:33:35.373Z",
+    "last_updated": "2026-08-24T14:03:20.962Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_id": 281834526,
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
