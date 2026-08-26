@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,694 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,929 | 🐛 106 | 📅 2026-08-21
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,050 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,051 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 431 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 399 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -60,7 +60,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
 * [gridder](https://github.com/oriongunning/gridder) ⭐ 459 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
-* [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 358 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
+* [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 357 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
 * [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 317 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
 * [HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) ⭐ 308 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-11 - Animated haze distortion effect for images and text, with WebGL
 * [StickyImageEffect](https://github.com/Anemolo/StickyImageEffect) ⭐ 231 | 🐛 4 | 🌐 JavaScript | 📅 2019-04-17 - A sticky image effect for a slideshow inspired by ultanoir's website.
@@ -158,7 +158,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,980 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
-* [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
+* [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 220 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 * [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 143 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
 * [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) ⭐ 143 | 🐛 1 | 🌐 HTML | 📅 2016-12-19 - An experimental SVG letter animation inspired by the Dribbble shot "Shading Letters in Illustrator" by Jake Bartlett's. Powered by Julian Garnier's anime.js.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
