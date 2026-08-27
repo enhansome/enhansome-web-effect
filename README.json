@@ -204,7 +204,7 @@
                 "last_commit": "2026-02-26T12:24:18Z",
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4051
+                "stars": 4052
               }
             },
             {
@@ -1998,7 +1998,7 @@
                 "last_commit": "2026-01-26T14:29:38Z",
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1417
+                "stars": 1418
               }
             },
             {
@@ -2028,7 +2028,7 @@
                 "last_commit": "2019-08-28T00:09:18Z",
                 "owner": "felixturner",
                 "repo": "bad-tv-shader",
-                "stars": 521
+                "stars": 523
               }
             },
             {
@@ -2251,7 +2251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T00:34:21.657Z",
+    "last_updated": "2026-08-27T05:26:46.472Z",
     "original_repository": "lindelof/awesome-web-effect",
     "original_repository_id": 281834526,
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
