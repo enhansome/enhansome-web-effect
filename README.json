@@ -1408,7 +1408,7 @@
                 "last_commit": "2023-10-23T01:20:05Z",
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -2251,9 +2251,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:26:46.472Z",
-    "original_repository": "lindelof/awesome-web-effect",
-    "original_repository_id": 281834526,
+    "last_updated": "2026-08-27T12:10:44.832Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 281834526,
+      "language": null,
+      "last_commit": "2021-04-12T03:19:08Z",
+      "owner": "lindelof",
+      "repo": "awesome-web-effect",
+      "stars": 3155
+    },
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
     "enhanced_repository": "enhansome/enhansome-web-effect",
     "enhanced_repository_description": null,
