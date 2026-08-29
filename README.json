@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.",
+                "homepage": "http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/",
                 "id": 14454268,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-25T16:54:49Z",
+                "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6492
+                "stars": 6492,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add a water ripple effect to your background using WebGL.",
+                "homepage": "https://sirxemic.github.io/jquery.ripples/",
                 "id": 13586618,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-05T00:29:32Z",
+                "open_issues": 28,
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1132
+                "stars": 1132,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -44,12 +54,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React particles animation background component",
+                "homepage": "https://stackblitz.com/edit/react-a6pm3w",
                 "id": 223338365,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-04-02T03:48:13Z",
+                "open_issues": 6,
                 "owner": "lindelof",
                 "repo": "particles-bg",
-                "stars": 669
+                "stars": 669,
+                "topics": [
+                  "backgrounds",
+                  "login-template",
+                  "react-background",
+                  "react-background-component",
+                  "react-bg",
+                  "react-component",
+                  "react-particle",
+                  "react-particles",
+                  "react-resume",
+                  "react-theme",
+                  "resume-template"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -60,12 +87,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Background image segment effect as seen on [Filippo Bello's Portfolio](http://www.filippobello.com/portfolio).",
+                "homepage": null,
                 "id": 68809912,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-04-06T07:25:32Z",
+                "open_issues": 2,
                 "owner": "codrops",
                 "repo": "SegmentEffect",
-                "stars": 540
+                "stars": 540,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -76,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A decorative website background effect where SVG shapes morph and transform on scroll.",
+                "homepage": "https://tympanus.net/codrops/?p=31190",
                 "id": 92161853,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-05-23T11:00:34Z",
+                "open_issues": 2,
                 "owner": "codrops",
                 "repo": "MorphingBackgroundShapes",
-                "stars": 396
+                "stars": 396,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -92,12 +129,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Particles in Canvas ~~ Fast, Lightweight, High Performance.",
+                "homepage": "https://sparticlesjs.dev",
                 "id": 222140541,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-04-25T07:13:16Z",
+                "open_issues": 11,
                 "owner": "simeydotme",
                 "repo": "sparticles",
-                "stars": 283
+                "stars": 283,
+                "topics": [
+                  "animation",
+                  "canvas",
+                  "effect",
+                  "effects",
+                  "javascript",
+                  "particle",
+                  "particles",
+                  "particles-js",
+                  "particlesjs",
+                  "react",
+                  "react-particles",
+                  "sparticles",
+                  "svelte",
+                  "svelte-particles",
+                  "typescript",
+                  "vanilla",
+                  "vanilla-js",
+                  "vue",
+                  "vue-particles"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -108,12 +170,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vue.js particles animation background component",
+                "homepage": "https://codesandbox.io/s/particles-bg-vue-bg145",
                 "id": 224649531,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2021-03-20T03:25:31Z",
+                "open_issues": 3,
                 "owner": "lindelof",
                 "repo": "particles-bg-vue",
-                "stars": 232
+                "stars": 232,
+                "topics": [
+                  "particle-bg",
+                  "particles",
+                  "particles-bg",
+                  "vue-background",
+                  "vue-particle",
+                  "vue-particle-background",
+                  "vue-particles",
+                  "vue-resume",
+                  "vuejs-particles"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -124,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Switch the background-image with using effect.",
+                "homepage": "http://rewish.github.io/jquery-bgswitcher/",
                 "id": 924933,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-31T03:23:45Z",
+                "open_issues": 17,
                 "owner": "rewish",
                 "repo": "jquery-bgswitcher",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -140,12 +222,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A motion hover effect for a background grid of images.",
+                "homepage": "https://tympanus.net/codrops/?p=50073",
                 "id": 271245717,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-23T09:12:59Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "ImageGridMotionEffect",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "css",
+                  "gsap",
+                  "hover",
+                  "javascript",
+                  "layout",
+                  "webdesign"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -156,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recreation of the background scale hover effect seen on the DDD Hotel website using CSS clip paths.",
+                "homepage": "https://tympanus.net/codrops/?p=48414",
                 "id": 246584224,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-03-11T15:05:46Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "BackgroundScaleHoverEffect",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -172,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Warp drive is a lightweight jQuery plugin that helps you create a cool, interactive, configurable, HTML5 canvas based warp drive/starfield effect.",
+                "homepage": null,
                 "id": 92149806,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-01T03:51:56Z",
+                "open_issues": 3,
                 "owner": "NiklasKnaack",
                 "repo": "jquery-warpdrive-plugin",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -188,12 +292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 32864205,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2015-03-25T12:53:48Z",
+                "open_issues": 0,
                 "owner": "codyhouse",
                 "repo": "fixed-background-effect",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -211,12 +320,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Old-school cursor effects for your browser built with modern JavaScript",
+                "homepage": "https://tholman.com/cursor-effects",
                 "id": 49692445,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-26T12:24:18Z",
+                "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4052
+                "stars": 4052,
+                "topics": [
+                  "90s",
+                  "canvas",
+                  "javascript",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -227,12 +346,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parallax tilt hover effect for React JS 🪄",
+                "homepage": null,
                 "id": 88455442,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-10-15T14:11:14Z",
+                "open_issues": 12,
                 "owner": "jonathandion",
                 "repo": "react-tilt",
-                "stars": 431
+                "stars": 431,
+                "topics": [
+                  "3d",
+                  "animation",
+                  "dom",
+                  "javascript",
+                  "paralax",
+                  "react",
+                  "react-tilt",
+                  "tilt"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -243,12 +376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demos for the tutorial on how to achieve an interactive mouseover/hover effect  ",
+                "homepage": "https://tympanus.net/codrops/?p=49069",
                 "id": 251056202,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-18T14:49:29Z",
+                "open_issues": 18,
                 "owner": "akella",
                 "repo": "webgl-mouseover-effects",
-                "stars": 399
+                "stars": 399,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -259,12 +397,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple jQuery plugin for 3d Hover effect",
+                "homepage": null,
                 "id": 53648636,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-01-02T03:13:22Z",
+                "open_issues": 2,
                 "owner": "ariona",
                 "repo": "hover3d",
-                "stars": 332
+                "stars": 332,
+                "topics": [
+                  "css",
+                  "hover",
+                  "html",
+                  "jquery"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -275,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of effects for mouse-following image trails that show a random series of images.",
+                "homepage": "https://tympanus.net/codrops/?p=42696",
                 "id": 201034715,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-08-07T11:15:22Z",
+                "open_issues": 1,
                 "owner": "codrops",
                 "repo": "ImageTrailEffects",
-                "stars": 226
+                "stars": 226,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -291,12 +444,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mouse particle effect react component",
+                "homepage": "https://codesandbox.io/s/react-mouse-particles-l45h1",
                 "id": 228841962,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-04-01T03:48:40Z",
+                "open_issues": 1,
                 "owner": "lindelof",
                 "repo": "react-mouse-particles",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "mouse-effect",
+                  "react-cursor",
+                  "react-effect",
+                  "react-mouse",
+                  "react-particle",
+                  "react-particles"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -307,12 +472,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "magneticHover lets you trigger the hover effect on the element when the cursor is near it, but not over it yet",
+                "homepage": null,
                 "id": 254649241,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-07T04:38:14Z",
+                "open_issues": 13,
                 "owner": "Halo-Lab",
                 "repo": "magnetic-hover",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "effects",
+                  "js",
+                  "promo"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -323,12 +497,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":tada: Add a cute click effect to your mouse in your vuepress!",
+                "homepage": "https://moefyit.github.io/moefy-vuepress/",
                 "id": 216066156,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-18T02:15:36Z",
+                "open_issues": 1,
                 "owner": "moefyit",
                 "repo": "vuepress-plugin-cursor-effects",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "cursor",
+                  "effects",
+                  "plugin",
+                  "vuepress"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -339,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS shadow effect & JavaScript mouse move",
+                "homepage": "https://isa2008.github.io/mouse-text-shadow/",
                 "id": 223608627,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-11-23T15:36:22Z",
+                "open_issues": 0,
                 "owner": "Isa2008",
                 "repo": "mouse-text-shadow",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -355,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jQuery plugin that gives elements a 3d mouse over effect!",
+                "homepage": null,
                 "id": 61054903,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2016-06-23T23:36:49Z",
+                "open_issues": 0,
                 "owner": "putnamn21",
                 "repo": "jquery-animate3d",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -378,12 +572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS 3D Dropdown Concept",
+                "homepage": null,
                 "id": 6270574,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2022-07-28T05:16:46Z",
+                "open_issues": 10,
                 "owner": "soulwire",
                 "repo": "Makisu",
-                "stars": 1519
+                "stars": 1519,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -394,12 +593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS 3D Lighting Engine",
+                "homepage": null,
                 "id": 4695476,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2012-06-25T12:09:10Z",
+                "open_issues": 9,
                 "owner": "thomasxiii",
                 "repo": "photon",
-                "stars": 1445
+                "stars": 1445,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -410,12 +614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":package: Introduction to CSS 3D transforms",
+                "homepage": "https://3dtransforms.desandro.com/",
                 "id": 1130129,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2020-03-30T15:26:48Z",
+                "open_issues": 6,
                 "owner": "desandro",
                 "repo": "3dtransforms",
-                "stars": 1013
+                "stars": 1013,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -426,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solar System data visualisation done in HTML/CSS and a bit of Javascript.",
+                "homepage": "http://codepen.io/juliangarnier/fulldetails/idhuG",
                 "id": 5773281,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-29T09:26:51Z",
+                "open_issues": 5,
                 "owner": "juliangarnier",
                 "repo": "3D-CSS-Solar-System",
-                "stars": 472
+                "stars": 472,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -442,12 +656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS 3D renderer for Three.js.",
+                "homepage": "http://acko.net/blog/making-love-to-webkit/",
                 "id": 3484065,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2012-11-22T12:33:51Z",
+                "open_issues": 1,
                 "owner": "unconed",
                 "repo": "CSS3D.js",
-                "stars": 370
+                "stars": 370,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -458,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms",
+                "homepage": null,
                 "id": 25171068,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-08T17:19:09Z",
+                "open_issues": 4,
                 "owner": "michaelbromley",
                 "repo": "css-space-shooter",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -474,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".qube -- The Quintessential Responsive 3D CSS Cube",
+                "homepage": null,
                 "id": 31697670,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2021-05-30T23:31:33Z",
+                "open_issues": 0,
                 "owner": "zachstronaut",
                 "repo": "quintessential-css-cube",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -490,12 +719,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud)",
+                "homepage": "https://sparanoid.com/lab/cube.less/",
                 "id": 17163288,
                 "language": "Less",
+                "license": "MIT",
                 "last_commit": "2026-07-07T13:18:44Z",
+                "open_issues": 1,
                 "owner": "sparanoid",
                 "repo": "cube.less",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "css",
+                  "less"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -506,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sync CSS 3D transformations to a WebGL scene",
+                "homepage": "http://deathcap.github.io/gl-css3d",
                 "id": 30851730,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-05-24T03:32:41Z",
+                "open_issues": 5,
                 "owner": "deathcap",
                 "repo": "gl-css3d",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -522,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Código del Tutorial de Tarjetas 3D usando HTML5 y CSS3",
+                "homepage": null,
                 "id": 100294369,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2017-08-14T17:57:23Z",
+                "open_issues": 1,
                 "owner": "falconmasters",
                 "repo": "Tarjetas-3D-con-HTML5-y-CSS3",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -538,12 +785,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure CSS animated 3D Super Mario Icon",
+                "homepage": "http://cordobo.com/1662-pure-css-animated-3d-super-mario-icon/",
                 "id": 19343043,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2016-09-23T14:12:09Z",
+                "open_issues": 1,
                 "owner": "Cordobo",
                 "repo": "pure-css-super-mario",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "css",
+                  "mario",
+                  "mario-icon"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -561,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure CSS Image Hover Effect Library",
+                "homepage": "http://imagehover.io",
                 "id": 53206862,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-07-04T15:09:47Z",
+                "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1822
+                "stars": 1822,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -577,12 +838,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add a retro/vintage effect to images using the HTML5 canvas element",
+                "homepage": "https://vintagejs.com/",
                 "id": 1450644,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-14T13:57:48Z",
+                "open_issues": 0,
                 "owner": "rendro",
                 "repo": "vintageJS",
-                "stars": 842
+                "stars": 842,
+                "topics": [
+                  "canvas",
+                  "image-processing",
+                  "instagram",
+                  "javascript",
+                  "retro",
+                  "vintage"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -593,12 +866,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript library enabling magnifying glass effect on an images",
+                "homepage": null,
                 "id": 14165873,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-17T23:53:11Z",
+                "open_issues": 28,
                 "owner": "mark-rolich",
                 "repo": "Magnifier.js",
-                "stars": 833
+                "stars": 833,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -609,12 +887,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "image/video/content slideshow engine providing high quality animation effects including Kenburns Effect and GLSL Transitions.",
+                "homepage": "http://greweb.me/diaporama/",
                 "id": 2067993,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2018-02-08T23:16:18Z",
+                "open_issues": 18,
                 "owner": "gre",
                 "repo": "diaporama",
-                "stars": 784
+                "stars": 784,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -625,12 +908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background image in order to create a subtle motion or depth effect.",
+                "homepage": null,
                 "id": 36439898,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2018-10-06T05:15:33Z",
+                "open_issues": 3,
                 "owner": "codrops",
                 "repo": "ImageTiltEffect",
-                "stars": 567
+                "stars": 567,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -641,12 +929,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images.",
+                "homepage": "http://orion3dgames.github.io/gridder/",
                 "id": 11629582,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-07T22:02:34Z",
+                "open_issues": 21,
                 "owner": "orion3dgames",
                 "repo": "gridder",
-                "stars": 459
+                "stars": 459,
+                "topics": [
+                  "gallery",
+                  "gridder",
+                  "jquery-plugin"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -657,12 +954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.",
+                "homepage": null,
                 "id": 14083970,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-02T11:43:07Z",
+                "open_issues": 28,
                 "owner": "codrops",
                 "repo": "ThumbnailGridExpandingPreview",
-                "stars": 357
+                "stars": 357,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -673,12 +975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin",
+                "homepage": "http://peachananr.github.io/tiltedpage_scroll/demo/tiltedpage_scroll_demo.html",
                 "id": 17508744,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2026-02-19T13:11:47Z",
+                "open_issues": 4,
                 "owner": "peachananr",
                 "repo": "tiltedpage_scroll",
-                "stars": 317
+                "stars": 317,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -689,12 +996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animated haze distortion effect for images and text, with WebGL.",
+                "homepage": null,
                 "id": 58509409,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-11T12:31:59Z",
+                "open_issues": 5,
                 "owner": "lbebber",
                 "repo": "HeatDistortionEffect",
-                "stars": 308
+                "stars": 308,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -705,12 +1017,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sticky image effect for a slideshow inspired by ultanoir's website. ",
+                "homepage": "https://tympanus.net/codrops/2019/04/10/how-to-create-a-sticky-image-effect-with-three-js/",
                 "id": 178085057,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-04-17T22:23:20Z",
+                "open_issues": 4,
                 "owner": "Anemolo",
                 "repo": "StickyImageEffect",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "animation",
+                  "slideshow",
+                  "threejs",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -721,12 +1043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WIP] universal image app that uses different gl-react components",
+                "homepage": "http://greweb.me/gl-react-image-effects/",
                 "id": 47515546,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-02-19T20:31:31Z",
+                "open_issues": 3,
                 "owner": "gre",
                 "repo": "gl-react-image-effects",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -737,12 +1064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Switch the background-image with using effect.",
+                "homepage": "http://rewish.github.io/jquery-bgswitcher/",
                 "id": 924933,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-31T03:23:45Z",
+                "open_issues": 17,
                 "owner": "rewish",
                 "repo": "jquery-bgswitcher",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -753,12 +1085,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full image reveal effect with fancy thumbnail sliding.",
+                "homepage": "https://tympanus.net/codrops/?p=35087",
                 "id": 137052142,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-06-12T19:42:26Z",
+                "open_issues": 1,
                 "owner": "codrops",
                 "repo": "FullImageReveal",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -769,12 +1106,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of playful dragging effects for images using various techniques.",
+                "homepage": "https://tympanus.net/codrops/?p=47024",
                 "id": 238003118,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-02-07T16:51:50Z",
+                "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ImageDraggingEffects",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -785,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KenBurns Image Effect for React Native Applications",
+                "homepage": null,
                 "id": 49851966,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-05-25T07:11:12Z",
+                "open_issues": 2,
                 "owner": "nHiRanZ",
                 "repo": "react-native-kenburns-view",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -801,12 +1148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A speedy motion transition effect for an image slideshow.",
+                "homepage": "https://tympanus.net/codrops/?p=36812",
                 "id": 161321683,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-11T11:13:41Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "MotionTransitionEffect",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -817,12 +1169,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "👀  Rotate elements to create a following effect",
+                "homepage": null,
                 "id": 76579372,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-07-28T22:19:37Z",
+                "open_issues": 1,
                 "owner": "bersLucas",
                 "repo": "FollowCursor",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -840,12 +1197,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple yet powerful native javascript plugin for a cool typewriter effect.",
+                "homepage": "https://www.npmjs.com/package/typewriter-effect",
                 "id": 82093328,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-29T09:46:30Z",
+                "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2675
+                "stars": 2675,
+                "topics": [
+                  "javascript",
+                  "native-javascript-plugin",
+                  "typewriter",
+                  "typewriterjs"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -856,12 +1223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple styles and effects for enhancing text input interactions.",
+                "homepage": null,
                 "id": 28962260,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2017-03-19T10:59:10Z",
+                "open_issues": 3,
                 "owner": "codrops",
                 "repo": "TextInputEffects",
-                "stars": 953
+                "stars": 953,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -872,12 +1244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native typewriter effect, without compromises or dependencies.",
+                "homepage": "https://chriscavs.github.io/t-writer-demo/",
                 "id": 145749813,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-21T14:57:58Z",
+                "open_issues": 4,
                 "owner": "ChrisCavs",
                 "repo": "t-writer.js",
-                "stars": 510
+                "stars": 510,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -888,12 +1265,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⌨️ Lightweight $.Hypertext.Typewriter",
+                "homepage": "https://mntn-dev.github.io/t.js",
                 "id": 25040909,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-17T09:40:13Z",
+                "open_issues": 0,
                 "owner": "mntn-dev",
                 "repo": "t.js",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "beep",
+                  "del",
+                  "html",
+                  "html-tags",
+                  "javascript",
+                  "jquery",
+                  "kbd",
+                  "terminal-emulator",
+                  "typewriter",
+                  "typography"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -904,12 +1297,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":keyboard: Simulate a typewriter effect in vanilla JavaScript.",
+                "homepage": "https://codepen.io/lyuanqing/pen/oqgOMK",
                 "id": 23299602,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-30T07:40:51Z",
+                "open_issues": 3,
                 "owner": "yuanqing",
                 "repo": "malarkey",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "javascript",
+                  "typewriter"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -920,12 +1321,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"shuffle-text\" is JavaScript text effect library such as cool legacy of Flash.",
+                "homepage": "https://ics.media/entry/15498/",
                 "id": 88840786,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-09T07:35:33Z",
+                "open_issues": 1,
                 "owner": "ics-ikeda",
                 "repo": "shuffle-text",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "effects",
+                  "html5",
+                  "javascript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -936,12 +1347,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PowerModeInput can make your text input box more compelling",
+                "homepage": "https://codesandbox.io/s/power-mode-input-y39l6",
                 "id": 229732807,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-19T12:46:16Z",
+                "open_issues": 1,
                 "owner": "lindelof",
                 "repo": "power-mode-input",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "input",
+                  "magic-input",
+                  "particle",
+                  "particles",
+                  "tiny"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -952,12 +1374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React component for creating typing animations.",
+                "homepage": null,
                 "id": 38560049,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-11T15:50:26Z",
+                "open_issues": 18,
                 "owner": "ianbjorndilling",
                 "repo": "react-typewriter",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -968,12 +1395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A phaser helper for the typewriter effect",
+                "homepage": null,
                 "id": 48637665,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-03T09:53:04Z",
+                "open_issues": 2,
                 "owner": "netgfx",
                 "repo": "Phaser-typewriter",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -984,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The typewriter effect",
+                "homepage": "http://yckart.github.com/jquery.typer.js/",
                 "id": 8148601,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-03-24T13:16:10Z",
+                "open_issues": 4,
                 "owner": "yckart",
                 "repo": "jquery.typer.js",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -1007,12 +1444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of experimental modal window appearance effects with CSS transitions and animations. ",
+                "homepage": null,
                 "id": 11119992,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-07-02T08:12:27Z",
+                "open_issues": 20,
                 "owner": "codrops",
                 "repo": "ModalWindowEffects",
-                "stars": 1013
+                "stars": 1013,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1023,12 +1465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demonstration of different animation effects with AngularJS ngView directive.",
+                "homepage": null,
                 "id": 15265187,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-04-10T06:41:52Z",
+                "open_issues": 4,
                 "owner": "dfsq",
                 "repo": "ngView-animation-effects",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1039,12 +1486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some ideas for modern multi-layer page transitions using CSS Animations.",
+                "homepage": null,
                 "id": 60175654,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2016-06-01T12:38:57Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "PageRevealEffects",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1055,12 +1507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transition effect for Cocos Creator",
+                "homepage": null,
                 "id": 239949194,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-03-25T11:11:52Z",
+                "open_issues": 1,
                 "owner": "2youyou2",
                 "repo": "transitions",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1071,12 +1528,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A slideshow that uses a CSS glitch effect for slide transitions.",
+                "homepage": "https://tympanus.net/codrops/?p=34273",
                 "id": 124636625,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2018-03-10T08:26:09Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "GlitchSlideshow",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "css",
+                  "javascript",
+                  "slideshow"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1087,12 +1553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The slides in this slideshow wobble as they move. The effect is based on Sergey Valiukh's Dribbble shot and was made using Snap.svg and morphing SVG paths.",
+                "homepage": null,
                 "id": 25684793,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-10-24T11:46:53Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "WobblySlideshowEffect",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1103,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of animated transition effects, powered by CSS Animations",
+                "homepage": null,
                 "id": 58537798,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2016-05-11T11:09:00Z",
+                "open_issues": 1,
                 "owner": "codyhouse",
                 "repo": "animated-transition-effects",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1119,12 +1595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An immersive transition effect powered by image masks and CSS transforms.",
+                "homepage": null,
                 "id": 82057638,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-10-08T03:57:37Z",
+                "open_issues": 2,
                 "owner": "codyhouse",
                 "repo": "image-mask-effect",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1135,12 +1616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transition_Effect_Demo",
+                "homepage": null,
                 "id": 23181841,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-08-21T09:55:30Z",
+                "open_issues": 0,
                 "owner": "chauhanvipul87",
                 "repo": "Html_Transition_Effect_Demo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1151,12 +1637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS3-hover-transition-effect",
+                "homepage": null,
                 "id": 28742995,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2015-01-17T06:33:57Z",
+                "open_issues": 0,
                 "owner": "Inaamhusain",
                 "repo": "CSS3-hover-transition-effect",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -1174,12 +1665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.",
+                "homepage": "https://tympanus.net/Development/RainEffect/",
                 "id": 46043224,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-12T15:45:45Z",
+                "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1773
+                "stars": 1773,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1190,12 +1686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.",
+                "homepage": "http://www.schillmania.com/projects/snowstorm/",
                 "id": 865338,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-05T16:56:33Z",
+                "open_issues": 16,
                 "owner": "scottschiller",
                 "repo": "Snowstorm",
-                "stars": 557
+                "stars": 557,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1206,12 +1707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " The famous Matrix rain effect of falling green characters in a terminal",
+                "homepage": null,
                 "id": 48559322,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-21T01:33:53Z",
+                "open_issues": 2,
                 "owner": "nojvek",
                 "repo": "matrix-rain",
-                "stars": 442
+                "stars": 442,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1222,12 +1728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small but good javascript smoke effect 🌬💨",
+                "homepage": "https://omrelli.ug/smoke.js/",
                 "id": 32563936,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-11T18:16:25Z",
+                "open_issues": 3,
                 "owner": "bijection",
                 "repo": "smoke.js",
-                "stars": 277
+                "stars": 277,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1238,12 +1749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Snow Effect component for React.",
+                "homepage": "http://burakcan.github.io/react-snowstorm",
                 "id": 47349908,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-04T20:36:56Z",
+                "open_issues": 15,
                 "owner": "burakcan",
                 "repo": "react-snowstorm",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1254,12 +1770,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The incredible effect of rain of letters in the style of the Matrix trilogy.",
+                "homepage": "https://jefersonlucas.github.io/the-matrix-effect/",
                 "id": 266242161,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-23T18:18:23Z",
+                "open_issues": 1,
                 "owner": "JefersonLucas",
                 "repo": "the-matrix-effect",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "canvas",
+                  "canvas-2d-context",
+                  "canvas-animation",
+                  "canvas-element",
+                  "canvas-game",
+                  "canvas2d",
+                  "canvasjs",
+                  "css",
+                  "efeito-matrix",
+                  "effect-matrix",
+                  "html",
+                  "html-css",
+                  "html-css-javascript",
+                  "html5",
+                  "html5-canvas",
+                  "html5-game",
+                  "javascript",
+                  "matrix"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1270,12 +1810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A-Frame Rainfall effect component",
+                "homepage": "https://cdn.rawgit.com/takahirox/aframe-rain/v1.0.2/index.html",
                 "id": 81054170,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-02-23T19:52:45Z",
+                "open_issues": 4,
                 "owner": "takahirox",
                 "repo": "aframe-rain",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1286,12 +1831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML5 snow effect",
+                "homepage": null,
                 "id": 28486189,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2014-12-29T16:57:35Z",
+                "open_issues": 1,
                 "owner": "fforw",
                 "repo": "snowy",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1302,12 +1852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 48217109,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-12-24T23:48:27Z",
+                "open_issues": 1,
                 "owner": "jungledre",
                 "repo": "react-snow-effect",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1318,12 +1873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A text effect jquery plugin",
+                "homepage": null,
                 "id": 10826199,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-06-20T19:29:36Z",
+                "open_issues": 0,
                 "owner": "DavianWolf",
                 "repo": "Rainbow.js",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -1341,12 +1901,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A little library that can be used for bursting particles effects on buttons and other elements",
+                "homepage": "https://tympanus.net/codrops/?p=34685",
                 "id": 130969297,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-05T18:29:36Z",
+                "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1263
+                "stars": 1263,
+                "topics": [
+                  "animation",
+                  "animejs",
+                  "button",
+                  "javascript-library",
+                  "particles"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1357,12 +1928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot \"Download\" by xjw",
+                "homepage": "http://tympanus.net/codrops/2015/09/23/elastic-progress/",
                 "id": 43001482,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-12-14T17:04:04Z",
+                "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ElasticProgress",
-                "stars": 878
+                "stars": 878,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1373,12 +1949,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of buttons with a magnetic interaction and a hover effect.",
+                "homepage": "https://tympanus.net/codrops/?p=50513",
                 "id": 285261414,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-02-24T10:23:14Z",
+                "open_issues": 2,
                 "owner": "codrops",
                 "repo": "MagneticButtons",
-                "stars": 485
+                "stars": 485,
+                "topics": [
+                  "button-animation"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1389,12 +1972,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure CSS (no JavaScript) implementation of Android Material design \"ripple\" animation",
+                "homepage": "http://mladenplavsic.github.io/css-ripple-effect",
                 "id": 29052352,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2019-04-15T21:29:49Z",
+                "open_issues": 6,
                 "owner": "mladenplavsic",
                 "repo": "css-ripple-effect",
-                "stars": 346
+                "stars": 346,
+                "topics": [
+                  "no-javascript",
+                  "pure-css",
+                  "ripple"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1405,12 +1997,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bursting particles effects buttons component ✨💥❄️🌋",
+                "homepage": "https://dreambo8563.github.io/vue-particle-effect-buttons/",
                 "id": 183141405,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-10-22T04:42:39Z",
+                "open_issues": 38,
                 "owner": "dreambo8563",
                 "repo": "vue-particle-effect-buttons",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "animations",
+                  "anime",
+                  "buttons",
+                  "particles",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1421,12 +2024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring your react buttons to next level with parallax effect.",
+                "homepage": "https://react-parallax.firebaseapp.com/",
                 "id": 128648426,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-04-08T20:38:31Z",
+                "open_issues": 1,
                 "owner": "tomekvenits",
                 "repo": "react-parallax-button",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1437,12 +2045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NativeScript plugin that add shine effect to your button.",
+                "homepage": null,
                 "id": 138806596,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-15T13:43:07Z",
+                "open_issues": 1,
                 "owner": "hamdiwanis",
                 "repo": "nativescript-shine-button",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1453,12 +2066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kony Visualizer reusable component of a button with a Material Theme ripple effect.",
+                "homepage": null,
                 "id": 216626402,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-11-07T15:54:03Z",
+                "open_issues": 0,
                 "owner": "mig82",
                 "repo": "RippleButton",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -1476,12 +2094,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS loading animations with minimal effort!",
+                "homepage": "https://whirl.netlify.com",
                 "id": 17076269,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2023-01-03T17:33:53Z",
+                "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1837
+                "stars": 1837,
+                "topics": [
+                  "animation",
+                  "css",
+                  "css-loading-animations",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "loader",
+                  "loading",
+                  "loading-animation",
+                  "loading-animations",
+                  "loading-bar",
+                  "loading-indicator",
+                  "loading-screen",
+                  "loading-spinner",
+                  "loading-spinners",
+                  "progress",
+                  "pseudo-elements",
+                  "spinner",
+                  "spinners",
+                  "whirl"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1492,12 +2135,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔮 CSS loading animations made with single element.",
+                "homepage": "https://nzbin.github.io/three-dots/",
                 "id": 116205247,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2023-10-23T01:20:05Z",
+                "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1342
+                "stars": 1342,
+                "topics": [
+                  "less",
+                  "loading-animations",
+                  "sass",
+                  "single-element-css-spinners",
+                  "three-dots"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1508,12 +2162,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.",
+                "homepage": null,
                 "id": 27613185,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2019-02-25T21:35:46Z",
+                "open_issues": 20,
                 "owner": "joaopereirawd",
                 "repo": "fakeLoader.js",
-                "stars": 715
+                "stars": 715,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1524,12 +2183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern ways of revealing new content using SVG animations.",
+                "homepage": null,
                 "id": 19058927,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-04-23T08:08:18Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "PageLoadingEffects",
-                "stars": 641
+                "stars": 641,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1540,12 +2204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loading effects for assets including some built in animated reveals",
+                "homepage": null,
                 "id": 36302368,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-02-22T20:11:39Z",
+                "open_issues": 0,
                 "owner": "ZachSaucier",
                 "repo": "Asset-Loading-Effects",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1556,12 +2225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure css cross-browser loading animations.",
+                "homepage": null,
                 "id": 33926589,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2016-11-18T21:49:29Z",
+                "open_issues": 0,
                 "owner": "anastawfik",
                 "repo": "ArtWorx-xLoader",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1572,12 +2246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight CSS loading animations to use when page loads.",
+                "homepage": "http://viglino.github.io/css-page-loader/",
                 "id": 71624096,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-10-07T05:56:10Z",
+                "open_issues": 2,
                 "owner": "Viglino",
                 "repo": "css-page-loader",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1588,12 +2267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Load Testing in Javascript-like Scripting Language",
+                "homepage": "http://loadeffect.com",
                 "id": 61343042,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-07-22T15:13:00Z",
+                "open_issues": 34,
                 "owner": "Auklets",
                 "repo": "LoadEffect",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -1611,12 +2295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live input Web Audio effects",
+                "homepage": "https://cwilso.github.io/Audio-Input-Effects/",
                 "id": 5893848,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-23T10:47:14Z",
+                "open_issues": 9,
                 "owner": "cwilso",
                 "repo": "Audio-Input-Effects",
-                "stars": 562
+                "stars": 562,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1627,12 +2316,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Vue.js web application for streaming radio stations from Somafm.com. This app uses the public SomaFM JSON channels API endpoint to pull in a list of stations and makes it easy to switch between stations. This app also uses Three.js and the HTML5 Web Audio Context API to sample audio data and create a visualizer effect for the selected station. ",
+                "homepage": null,
                 "id": 149694037,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-15T02:10:03Z",
+                "open_issues": 22,
                 "owner": "rainner",
                 "repo": "soma-fm-player",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "audio",
+                  "javascript",
+                  "somafm",
+                  "spa",
+                  "threejs",
+                  "ui",
+                  "visualizer",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1643,12 +2346,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)",
+                "homepage": "http://beez.greweb.fr/",
                 "id": 12456714,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2014-06-13T12:34:05Z",
+                "open_issues": 0,
                 "owner": "gre",
                 "repo": "beez",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1659,12 +2367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Web Audio API based reverb effect.",
+                "homepage": null,
                 "id": 28384227,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-02-11T11:39:26Z",
+                "open_issues": 2,
                 "owner": "mmckegg",
                 "repo": "soundbank-reverb",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1675,12 +2388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple sound effect manager for playing sounds using the awesome HTML 5 Web Audio API",
+                "homepage": null,
                 "id": 6936599,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-09-05T11:53:51Z",
+                "open_issues": 3,
                 "owner": "HenrikJoreteg",
                 "repo": "SoundEffectManager",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -1698,12 +2416,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live green-screen effect with Expo and THREE.js",
+                "homepage": null,
                 "id": 201846651,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-26T16:41:24Z",
+                "open_issues": 11,
                 "owner": "EvanBacon",
                 "repo": "expo-chroma-key-camera",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "ar",
+                  "arkit",
+                  "demo",
+                  "example",
+                  "expo",
+                  "expo-three",
+                  "react",
+                  "react-native",
+                  "reactnative",
+                  "threejs",
+                  "unicorn"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1714,12 +2449,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live green-screen effect with Expo and THREE.js",
+                "homepage": null,
                 "id": 201846651,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-26T16:41:24Z",
+                "open_issues": 11,
                 "owner": "EvanBacon",
                 "repo": "expo-chroma-key-camera",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "ar",
+                  "arkit",
+                  "demo",
+                  "example",
+                  "expo",
+                  "expo-three",
+                  "react",
+                  "react-native",
+                  "reactnative",
+                  "threejs",
+                  "unicorn"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1730,12 +2482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live Image Processing w/ getUserMedia() & Web Workers",
+                "homepage": "http://conorbuck.github.io/canvas-video-effects/",
                 "id": 7235318,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-01-23T05:11:24Z",
+                "open_issues": 0,
                 "owner": "conorbuck",
                 "repo": "canvas-video-effects",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1746,12 +2503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Green screen effect in your webcam",
+                "homepage": null,
                 "id": 11489548,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-07-21T15:14:34Z",
+                "open_issues": 0,
                 "owner": "rprieto",
                 "repo": "chroma-cam",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1762,12 +2524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Chuck Close Shader effect in Spark AR",
+                "homepage": null,
                 "id": 216801954,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-10-22T12:00:59Z",
+                "open_issues": 0,
                 "owner": "kamend",
                 "repo": "ChuckClose-SparkAR",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1778,12 +2545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyhypeperersamamplplerer: Spark AR effect",
+                "homepage": null,
                 "id": 187401299,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-22T13:38:52Z",
+                "open_issues": 2,
                 "owner": "positlabs",
                 "repo": "spark-hypersampler",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1794,12 +2566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webcam Effects in Three.js",
+                "homepage": null,
                 "id": 168540966,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-01-31T14:48:03Z",
+                "open_issues": 0,
                 "owner": "adamlamoglia",
                 "repo": "webcam-effects",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1810,12 +2587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript 30 - Webcam effects",
+                "homepage": null,
                 "id": 129686476,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-04-16T05:00:36Z",
+                "open_issues": 0,
                 "owner": "Gixxern",
                 "repo": "JS---Webcam-effects",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -1833,12 +2615,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lazy Line Painter - A Modern JS library for SVG path animation",
+                "homepage": "https://lazylinepainter.com",
                 "id": 7705216,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-12T05:15:03Z",
+                "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1980
+                "stars": 1980,
+                "topics": [
+                  "animation",
+                  "animation-library",
+                  "drawing",
+                  "javascript",
+                  "js",
+                  "lightweight",
+                  "path-animation",
+                  "responsive",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1849,12 +2646,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript and SVG odometer effect library with motion blur",
+                "homepage": "https://coderitual.github.io/bounty/examples/",
                 "id": 63018401,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-24T05:17:29Z",
+                "open_issues": 16,
                 "owner": "coderitual",
                 "repo": "bounty",
-                "stars": 822
+                "stars": 822,
+                "topics": [
+                  "animation",
+                  "bounty",
+                  "css",
+                  "es6",
+                  "filters",
+                  "graphics",
+                  "javascript",
+                  "lib",
+                  "odometer",
+                  "prize",
+                  "svg",
+                  "svg-odometer",
+                  "ui",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1865,12 +2682,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight, simple to use jQuery plugin to animate SVG paths",
+                "homepage": "http://lcdsantos.github.io/jquery-drawsvg/",
                 "id": 42251278,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-10-22T01:07:06Z",
+                "open_issues": 8,
                 "owner": "lcdsantos",
                 "repo": "jquery-drawsvg",
-                "stars": 767
+                "stars": 767,
+                "topics": [
+                  "animation",
+                  "jquery",
+                  "jquery-plugin",
+                  "svg",
+                  "svg-animations"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1881,12 +2709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some shape morphing hover effects on images using SVG clipPath.",
+                "homepage": "https://tympanus.net/codrops/2017/06/28/organic-shape-animations-with-svg-clippath/",
                 "id": 95665688,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-06-28T12:17:09Z",
+                "open_issues": 0,
                 "owner": "codrops",
                 "repo": "OrganicShapeAnimations",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1897,12 +2730,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Menu animations and all my other UI snippets together in one repo",
+                "homepage": "https://tamino-martinius.github.io/ui-snippets/",
                 "id": 135192176,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-17T12:00:19Z",
+                "open_issues": 0,
                 "owner": "tamino-martinius",
                 "repo": "ui-snippets",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "animation",
+                  "css",
+                  "html",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1913,12 +2756,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some ideas for decorative link distortion effects using SVG filters.",
+                "homepage": "https://tympanus.net/codrops/?p=48230",
                 "id": 244820578,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-13T11:56:17Z",
+                "open_issues": 1,
                 "owner": "codrops",
                 "repo": "DistortedLinkEffects",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "hover-effects",
+                  "links",
+                  "svg-filters"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1929,12 +2781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experimental SVG letter animation inspired by the Dribbble shot [\"Shading Letters in Illustrator\"](https://dribbble.com/shots/2943049-Shading-Letters-in-Illustrator) by Jake Bartlett's. Powered by Julian Garnier's [anime.js](http://anime-js.com/).",
+                "homepage": null,
                 "id": 68101209,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2016-12-19T11:16:13Z",
+                "open_issues": 1,
                 "owner": "codrops",
                 "repo": "FancyLetterAnimation",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1945,12 +2802,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Illusion of Life: An SVG Animation Case Study",
+                "homepage": null,
                 "id": 54905717,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-07-26T13:29:58Z",
+                "open_issues": 0,
                 "owner": "hellomichael",
                 "repo": "svg-animation",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1961,12 +2823,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 84364399,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2019-11-01T12:33:33Z",
+                "open_issues": 0,
                 "owner": "crealime",
                 "repo": "circle-svg-animation",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -1977,12 +2844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a simple svg isometric city animation with GSAP",
+                "homepage": null,
                 "id": 120779819,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2018-02-13T08:22:30Z",
+                "open_issues": 0,
                 "owner": "projapati66",
                 "repo": "Svg-IsometricCityAnimation",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -2000,12 +2872,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Particles engine in javascript",
+                "homepage": "http://jeromeetienne.github.com/fireworks.js",
                 "id": 4281528,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-01-03T12:46:32Z",
+                "open_issues": 11,
                 "owner": "jeromeetienne",
                 "repo": "fireworks.js",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2016,12 +2893,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A silly JavaScript animation experiment, originally written in 2005.",
+                "homepage": "http://schillmania.com/projects/fireworks/",
                 "id": 1993189,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2011-07-04T01:05:38Z",
+                "open_issues": 2,
                 "owner": "scottschiller",
                 "repo": "fireworks.js",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2032,12 +2914,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGL + Web Audio API = Sound-driven fireworks!",
+                "homepage": "https://ondras.github.io/fireworks-webgl",
                 "id": 28545362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-28T18:26:12Z",
+                "open_issues": 0,
                 "owner": "ondras",
                 "repo": "fireworks-webgl",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2048,12 +2937,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGL Fireworks in VR",
+                "homepage": "https://qake.se/fw/index.html",
                 "id": 234370656,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-01-22T20:52:24Z",
+                "open_issues": 0,
                 "owner": "Lallassu",
                 "repo": "fireworks",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "fireworks",
+                  "javascript",
+                  "threejs",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2064,12 +2963,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design and Display fireworks on HTML canvas with Skyrocket.js",
+                "homepage": null,
                 "id": 96295432,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-11-05T05:12:41Z",
+                "open_issues": 0,
                 "owner": "zarocknz",
                 "repo": "javascript-skyrocket",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "fireworks",
+                  "html-canvas",
+                  "javascript",
+                  "javascript-library"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2080,12 +2989,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fireworks on pure 2D canvas without any dependencies",
+                "homepage": "https://fireworks.pixel-tyumen.ru/",
                 "id": 26226885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-23T05:48:04Z",
+                "open_issues": 0,
                 "owner": "PixxxeL",
                 "repo": "js-fireworks",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "animation",
+                  "canvas",
+                  "gamedev",
+                  "js"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -2103,12 +3022,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat: 🎨 Aquarelle is a watercolor effect component. Javascript library by @Ramotion",
+                "homepage": "https://www.ramotion.com/agency/web-design/",
                 "id": 62564394,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-20T16:55:31Z",
+                "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1822
+                "stars": 1822,
+                "topics": [
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2119,12 +3045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playground for the fire effect from DOOM. Really simple algorithm and all experiments are welcome!",
+                "homepage": null,
                 "id": 164105898,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-26T14:29:38Z",
+                "open_issues": 4,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1418
+                "stars": 1418,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2135,12 +3066,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript Sound Effect Generator",
+                "homepage": null,
                 "id": 1282359,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-13T19:12:07Z",
+                "open_issues": 2,
                 "owner": "loov",
                 "repo": "jsfx",
-                "stars": 583
+                "stars": 583,
+                "topics": [
+                  "game-development",
+                  "javascript",
+                  "sound",
+                  "sound-effects"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2151,12 +3092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BadTV Effect for Three.js",
+                "homepage": null,
                 "id": 56263473,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-28T00:09:18Z",
+                "open_issues": 2,
                 "owner": "felixturner",
                 "repo": "bad-tv-shader",
-                "stars": 523
+                "stars": 523,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2167,12 +3113,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.",
+                "homepage": "https://gibbok.github.io/animatelo",
                 "id": 75188386,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-28T21:37:12Z",
+                "open_issues": 0,
                 "owner": "gibbok",
                 "repo": "animatelo",
-                "stars": 495
+                "stars": 495,
+                "topics": [
+                  "animation",
+                  "animations",
+                  "cross-browser-animations",
+                  "css",
+                  "javascript",
+                  "web-animations-api"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2183,12 +3141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create cool animated SVG spinners, loaders and other looped animations in seconds",
+                "homepage": "http://svgcircus.com",
                 "id": 26269143,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2014-11-06T23:48:28Z",
+                "open_issues": 2,
                 "owner": "alexk111",
                 "repo": "SVG-Circus",
-                "stars": 331
+                "stars": 331,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2199,12 +3162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cool tips to design UI/UX on Leaflet maps.",
+                "homepage": "http://muxlab.github.io/map-effects-100/",
                 "id": 46058327,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-08-19T16:16:36Z",
+                "open_issues": 4,
                 "owner": "muxlab",
                 "repo": "map-effects-100",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2215,12 +3183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A glitched effect for DOM elements",
+                "homepage": "http://sjhewitt.github.com/glitch.js/",
                 "id": 4971163,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-13T02:39:27Z",
+                "open_issues": 4,
                 "owner": "sjhewitt",
                 "repo": "glitch.js",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2231,12 +3204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiment: CSS3D plane/fold effect",
+                "homepage": null,
                 "id": 9852433,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-05-16T10:05:56Z",
+                "open_issues": 1,
                 "owner": "roboshoes",
                 "repo": "spread",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2247,12 +3225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cool and powerful effect to select fields. Javascript vanilla and ~2kb gzipped",
+                "homepage": "http://ktquez.github.io/pickout/",
                 "id": 53870958,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-11T03:48:06Z",
+                "open_issues": 6,
                 "owner": "ktquez",
                 "repo": "pickout",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2263,12 +3246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starry Night animation in put.io's hero banner",
+                "homepage": "https://atesgoral.github.io/put.io.starry.night",
                 "id": 108166538,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-12-04T15:02:49Z",
+                "open_issues": 0,
                 "owner": "atesgoral",
                 "repo": "put.io.starry.night",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2279,12 +3267,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "❄️ Add a live frosted glass blur effect over any type of web content, including text.",
+                "homepage": "https://codesandbox.io/s/github/adriancarriger/frosted-glass/tree/master/demos/vanilla/navbar",
                 "id": 111587701,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-05-29T21:54:14Z",
+                "open_issues": 12,
                 "owner": "adriancarriger",
                 "repo": "frosted-glass",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "blur",
+                  "frosted-glass",
+                  "stenciljs",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2295,12 +3293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animated images that are superficially attractive and entertaining but intellectually undemanding. Cool as all hell though!",
+                "homepage": null,
                 "id": 94147177,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-28T12:04:08Z",
+                "open_issues": 3,
                 "owner": "mykle1",
                 "repo": "MMM-EyeCandy",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2311,12 +3314,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cool 2D dissolve effect generator",
+                "homepage": "https://transitive-bullshit.github.io/dissolve-generator/demo",
                 "id": 76479755,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-11T23:12:56Z",
+                "open_issues": 1,
                 "owner": "transitive-bullshit",
                 "repo": "dissolve-generator",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "dissolve",
+                  "effect",
+                  "fizzlefade"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2327,12 +3339,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo after effect animation on web using Lottie",
+                "homepage": null,
                 "id": 126218788,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-05-08T17:36:21Z",
+                "open_issues": 0,
                 "owner": "codeaholicguy",
                 "repo": "lottie-sample",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "after-effects",
+                  "bodymovin",
+                  "demo",
+                  "lottie",
+                  "lottie-web",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2343,12 +3367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dynamic effect component on mobile web",
+                "homepage": null,
                 "id": 32785724,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2015-05-17T08:58:43Z",
+                "open_issues": 1,
                 "owner": "zhangmengxue",
                 "repo": "MobileComponent",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2359,12 +3388,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to follow side effect library for redux reducers",
+                "homepage": null,
                 "id": 97508992,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-07-18T13:55:19Z",
+                "open_issues": 0,
                 "owner": "danrigsby",
                 "repo": "redux-reducer-side-effects",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "functional-programming",
+                  "middleware",
+                  "react",
+                  "redux",
+                  "side-effects"
+                ]
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             },
@@ -2375,12 +3415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 21221602,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-06-25T23:23:06Z",
+                "open_issues": 0,
                 "owner": "AsmaBOUSSALEM",
                 "repo": "webEffects",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
             }
@@ -2394,15 +3439,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:23:14.260Z",
+    "last_updated": "2026-08-29T04:22:57.723Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A series of exquisite and compact web page cool effects",
+      "homepage": null,
       "id": 281834526,
       "language": null,
+      "license": null,
       "last_commit": "2021-04-12T03:19:08Z",
+      "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3155
+      "stars": 3155,
+      "topics": [
+        "awesome",
+        "web-effect"
+      ]
     },
     "original_repository_sha": "12e11f472cf49765f43dbe679ecaa3228eeea516",
     "enhanced_repository": "enhansome/enhansome-web-effect",
