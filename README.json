@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4052,
+                "stars": 4053,
                 "topics": [
                   "90s",
                   "canvas",
@@ -3101,7 +3101,7 @@
                 "open_issues": 2,
                 "owner": "felixturner",
                 "repo": "bad-tv-shader",
-                "stars": 523,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:12.074Z",
+    "last_updated": "2026-08-30T02:04:16.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3155,
+      "stars": 3156,
       "topics": [
         "awesome",
         "web-effect"
