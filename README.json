@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4053,
+                "stars": 4054,
                 "topics": [
                   "90s",
                   "canvas",
@@ -826,7 +826,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1822,
+                "stars": 1819,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1674,7 +1674,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1773,
+                "stars": 1774,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2624,7 +2624,7 @@
                 "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1980,
+                "stars": 1981,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -3075,7 +3075,7 @@
                 "open_issues": 2,
                 "owner": "loov",
                 "repo": "jsfx",
-                "stars": 583,
+                "stars": 584,
                 "topics": [
                   "game-development",
                   "javascript",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:59:46.597Z",
+    "last_updated": "2026-09-01T02:21:28.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
