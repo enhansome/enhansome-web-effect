@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,751 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,063 | 🐛 105 | 📅 2026-08-21
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -50,7 +50,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [cube.less](https://github.com/sparanoid/cube.less) ⭐ 55 | 🐛 1 | 🌐 Less | 📅 2026-07-07 - 3D (animated) cube using only CSS (Less), originally used by LeanCloud
 * [gl-css3d](https://github.com/deathcap/gl-css3d) ⭐ 33 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-24 - Synchronize CSS 3D transformations to a WebGL scene
 * [Tarjetas-3D](https://github.com/falconmasters/Tarjetas-3D-con-HTML5-y-CSS3) ⭐ 16 | 🐛 1 | 🌐 CSS | 📅 2017-08-14 - Código del Tutorial de Tarjetas 3D usando HTML5 y CSS3
-* [super-mario](https://github.com/Cordobo/pure-css-super-mario) ⭐ 15 | 🐛 1 | 🌐 CSS | 📅 2016-09-23 - Pure CSS animated 3D Super Mario Icon
+* [super-mario](https://github.com/Cordobo/pure-css-super-mario) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2016-09-23 - Pure CSS animated 3D Super Mario Icon
 
 ### Image Effect
 
@@ -66,7 +66,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [StickyImageEffect](https://github.com/Anemolo/StickyImageEffect) ⭐ 231 | 🐛 4 | 🌐 JavaScript | 📅 2019-04-17 - A sticky image effect for a slideshow inspired by ultanoir's website.
 * [gl-react-image-effects](https://github.com/gre/gl-react-image-effects) ⭐ 221 | 🐛 3 | 🌐 JavaScript | 📅 2016-02-19 - universal image app that uses different gl-react components
 * [bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 192 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
-* [FullImageReveal](https://github.com/codrops/FullImageReveal) ⭐ 165 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-12 - A full image reveal effect with fancy thumbnail sliding.
+* [FullImageReveal](https://github.com/codrops/FullImageReveal) ⭐ 164 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-12 - A full image reveal effect with fancy thumbnail sliding.
 * [ImageDraggingEffects](https://github.com/codrops/ImageDraggingEffects) ⭐ 79 | 🐛 2 | 🌐 JavaScript | 📅 2020-02-07 - A set of playful dragging effects for images using various techniques..
 * [react-native-kenburns-view](https://github.com/nHiRanZ/react-native-kenburns-view) ⭐ 62 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-25 - KenBurns Image Effect for React Native Applications
 * [MotionTransitionEffect](https://github.com/codrops/MotionTransitionEffect) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-11 - A speedy motion transition effect for an image slideshow.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

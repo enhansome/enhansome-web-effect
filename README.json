@@ -791,7 +791,7 @@
                 "language": "CSS",
                 "license": null,
                 "last_commit": "2016-09-23T14:12:09Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Cordobo",
                 "repo": "pure-css-super-mario",
                 "stars": 15,
@@ -1094,7 +1094,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "FullImageReveal",
-                "stars": 165,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:21:28.333Z",
+    "last_updated": "2026-09-02T01:42:45.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3156,
+      "stars": 3158,
       "topics": [
         "awesome",
         "web-effect"
