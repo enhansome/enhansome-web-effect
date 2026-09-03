@@ -138,7 +138,7 @@
                 "open_issues": 11,
                 "owner": "simeydotme",
                 "repo": "sparticles",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "animation",
                   "canvas",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4054,
+                "stars": 4056,
                 "topics": [
                   "90s",
                   "canvas",
@@ -791,7 +791,7 @@
                 "language": "CSS",
                 "license": null,
                 "last_commit": "2016-09-23T14:12:09Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Cordobo",
                 "repo": "pure-css-super-mario",
                 "stars": 15,
@@ -3031,7 +3031,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1822,
+                "stars": 1823,
                 "topics": [
                   "javascript"
                 ]
@@ -3101,7 +3101,7 @@
                 "open_issues": 2,
                 "owner": "felixturner",
                 "repo": "bad-tv-shader",
-                "stars": 524,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:42:45.127Z",
+    "last_updated": "2026-09-03T01:48:33.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
