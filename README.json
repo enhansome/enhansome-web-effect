@@ -42,7 +42,7 @@
                 "open_issues": 28,
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1133,
+                "stars": 1132,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4056,
+                "stars": 4057,
                 "topics": [
                   "90s",
                   "canvas",
@@ -385,7 +385,7 @@
                 "open_issues": 18,
                 "owner": "akella",
                 "repo": "webgl-mouseover-effects",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1495,7 +1495,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "PageRevealEffects",
-                "stars": 138,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1695,7 +1695,7 @@
                 "open_issues": 16,
                 "owner": "scottschiller",
                 "repo": "Snowstorm",
-                "stars": 557,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1716,7 +1716,7 @@
                 "open_issues": 2,
                 "owner": "nojvek",
                 "repo": "matrix-rain",
-                "stars": 442,
+                "stars": 443,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1910,7 +1910,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1263,
+                "stars": 1262,
                 "topics": [
                   "animation",
                   "animejs",
@@ -2376,7 +2376,7 @@
                 "open_issues": 2,
                 "owner": "mmckegg",
                 "repo": "soundbank-reverb",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:48:33.194Z",
+    "last_updated": "2026-09-04T01:42:35.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3158,
+      "stars": 3159,
       "topics": [
         "awesome",
         "web-effect"

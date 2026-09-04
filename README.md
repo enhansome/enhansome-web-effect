@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,429 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,734 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -13,7 +13,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Background Decoration
 
 * [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,492 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
-* [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,133 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
+* [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,132 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 669 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
 * [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 540 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
 * [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) ⭐ 396 | 🐛 2 | 🌐 HTML | 📅 2017-05-23 - A decorative website background effect where SVG shapes morph and transform on scroll..
@@ -27,9 +27,9 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,056 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,057 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 431 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
-* [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 399 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
+* [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 400 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
 * [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 226 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
 * [mouse-particles](https://github.com/lindelof/react-mouse-particles) ⭐ 115 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-01 - AboutA mouse particle effect react component
@@ -90,7 +90,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,013 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
 * [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2015-04-10 - Demonstration of different animation effects with AngularJS ngView directive.
-* [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 138 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
+* [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 137 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
 * [transitions](https://github.com/2youyou2/transitions) ⭐ 123 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-25 - Transition effect for Cocos Creator
 * [GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) ⭐ 115 | 🐛 0 | 🌐 CSS | 📅 2018-03-10 - A slideshow that uses a CSS glitch effect for slide transitions.
 * [WobblySlideshowEffect](https://github.com/codrops/WobblySlideshowEffect) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2014-10-24 - The slides in this slideshow wobble as they move. The effect is based on Sergey Valiukh's Dribbble shot and was made using Snap.svg and morphing SVG paths.
@@ -102,8 +102,8 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Rain & Snow
 
 * [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,774 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
-* [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 557 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
-* [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 442 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
+* [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 555 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
+* [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 443 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
 * [smoke.js](https://github.com/bijection/smoke.js) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
 * [snowstorm](https://github.com/burakcan/react-snowstorm) ⭐ 222 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-04 - A Snow Effect component for React. Uses Snowstorm under the hood.
 * [the-matrix-effect](https://github.com/JefersonLucas/the-matrix-effect) ⭐ 156 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-23 - The incredible effect of rain of letters in the style of the Matrix trilogy.
@@ -114,7 +114,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Button Effect
 
-* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,263 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
+* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,262 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 878 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
 * [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 485 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 346 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
@@ -139,7 +139,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) ⭐ 562 | 🐛 9 | 🌐 JavaScript | 📅 2024-07-23 - Live Audio Input effects
 * [soma-fm-player](https://github.com/rainner/soma-fm-player) ⭐ 147 | 🐛 22 | 🌐 JavaScript | 📅 2026-07-15 - SomaFM Music Player Web-App
 * [beez](https://github.com/gre/beez) ⚠️ Archived - 100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)
-* [soundbank](https://github.com/mmckegg/soundbank-reverb) ⭐ 22 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-11 - Simple Web Audio API based reverb effect.
+* [soundbank](https://github.com/mmckegg/soundbank-reverb) ⭐ 23 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-11 - Simple Web Audio API based reverb effect.
 * [SoundEffectManager](https://github.com/HenrikJoreteg/SoundEffectManager) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2015-09-05 - A simple sound effect manager for playing sounds using the awesome HTML 5 Web Audio API
 
 ### WebCam Effect
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
