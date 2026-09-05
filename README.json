@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4057,
+                "stars": 4058,
                 "topics": [
                   "90s",
                   "canvas",
@@ -644,7 +644,7 @@
                 "open_issues": 5,
                 "owner": "juliangarnier",
                 "repo": "3D-CSS-Solar-System",
-                "stars": 472,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3031,7 +3031,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1823,
+                "stars": 1821,
                 "topics": [
                   "javascript"
                 ]
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:42:35.083Z",
+    "last_updated": "2026-09-05T01:43:31.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
