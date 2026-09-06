@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6492,
+                "stars": 6491,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "lbebber",
                 "repo": "HeatDistortionEffect",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1674,7 +1674,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1774,
+                "stars": 1773,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1910,7 +1910,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1262,
+                "stars": 1261,
                 "topics": [
                   "animation",
                   "animejs",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:43:31.718Z",
+    "last_updated": "2026-09-06T01:37:31.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
