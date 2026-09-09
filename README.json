@@ -1910,7 +1910,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1261,
+                "stars": 1260,
                 "topics": [
                   "animation",
                   "animejs",
@@ -2144,7 +2144,7 @@
                 "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1342,
+                "stars": 1341,
                 "topics": [
                   "less",
                   "loading-animations",
@@ -2624,7 +2624,7 @@
                 "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1981,
+                "stars": 1980,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:46:17.405Z",
+    "last_updated": "2026-09-09T01:52:39.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3159,
+      "stars": 3158,
       "topics": [
         "awesome",
         "web-effect"

@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,000 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,297 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -114,7 +114,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Button Effect
 
-* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,261 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
+* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,260 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 878 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
 * [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 485 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 346 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
@@ -126,7 +126,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Loading Effect
 
 * [Whirl](https://github.com/jh3y/whirl) ⭐ 1,837 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
-* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,342 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
+* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,341 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
 * [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
@@ -155,7 +155,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### SVG Animations
 
-* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,981 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
+* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,980 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 767 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 220 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
