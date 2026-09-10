@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6491,
+                "stars": 6490,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -42,7 +42,7 @@
                 "open_issues": 28,
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1133,
+                "stars": 1134,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -938,7 +938,7 @@
                 "open_issues": 21,
                 "owner": "orion3dgames",
                 "repo": "gridder",
-                "stars": 459,
+                "stars": 456,
                 "topics": [
                   "gallery",
                   "gridder",
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "lbebber",
                 "repo": "HeatDistortionEffect",
-                "stars": 309,
+                "stars": 308,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1206,7 +1206,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2675,
+                "stars": 2674,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1674,7 +1674,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1774,
+                "stars": 1775,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1758,7 +1758,7 @@
                 "open_issues": 15,
                 "owner": "burakcan",
                 "repo": "react-snowstorm",
-                "stars": 222,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1937,7 +1937,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ElasticProgress",
-                "stars": 878,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 20,
                 "owner": "joaopereirawd",
                 "repo": "fakeLoader.js",
-                "stars": 715,
+                "stars": 714,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:52:39.870Z",
+    "last_updated": "2026-09-10T01:48:52.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3158,
+      "stars": 3159,
       "topics": [
         "awesome",
         "web-effect"
