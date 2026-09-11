@@ -826,7 +826,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1819,
+                "stars": 1818,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1674,7 +1674,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1775,
+                "stars": 1774,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2624,7 +2624,7 @@
                 "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1980,
+                "stars": 1981,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:48:52.975Z",
+    "last_updated": "2026-09-11T01:47:30.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
