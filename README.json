@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "lindelof",
                 "repo": "particles-bg",
-                "stars": 669,
+                "stars": 670,
                 "topics": [
                   "backgrounds",
                   "login-template",
@@ -1026,7 +1026,7 @@
                 "open_issues": 4,
                 "owner": "Anemolo",
                 "repo": "StickyImageEffect",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "animation",
                   "slideshow",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:47:30.972Z",
+    "last_updated": "2026-09-12T01:53:23.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
