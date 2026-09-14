@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,476 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,787 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -74,13 +74,13 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Input Effect
 
-* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,674 | 🐛 94 | 🌐 JavaScript | 📅 2025-04-29 - A simple yet powerful native javascript plugin for a cool typewriter effect.
+* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,673 | 🐛 94 | 🌐 JavaScript | 📅 2025-04-29 - A simple yet powerful native javascript plugin for a cool typewriter effect.
 * [TextInputEffects](https://github.com/codrops/TextInputEffects) ⭐ 953 | 🐛 3 | 🌐 CSS | 📅 2017-03-19 - Simple styles and effects for enhancing text input interactions.
 * [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 510 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
 * [t.js](https://github.com/mntn-dev/t.js) ⚠️ Archived - Lightweight $.Hypertext.Typewriter
 * [malarkey](https://github.com/yuanqing/malarkey) ⭐ 237 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-30 - Simulate a typewriter effect in vanilla JavaScript.
 * [shuffle-text](https://github.com/ics-ikeda/shuffle-text) ⭐ 136 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-09 - "shuffle-text" is JavaScript text effect library such as cool legacy of Flash.
-* [power-mode-input](https://github.com/lindelof/power-mode-input) ⭐ 91 | 🐛 1 | 🌐 JavaScript | 📅 2021-03-19 - PowerModeInput can make your text input box more compelling
+* [power-mode-input](https://github.com/lindelof/power-mode-input) ⭐ 92 | 🐛 1 | 🌐 JavaScript | 📅 2021-03-19 - PowerModeInput can make your text input box more compelling
 * [react-typewriter](https://github.com/ianbjorndilling/react-typewriter) ⭐ 87 | 🐛 18 | 🌐 JavaScript | 📅 2018-10-11 - A React component for creating typing animations.
 * [Phaser-typewriter](https://github.com/netgfx/Phaser-typewriter) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-03 - A phaser helper for the typewriter effect
 * [jquery.typer](https://github.com/yckart/jquery.typer.js) ⭐ 27 | 🐛 4 | 🌐 JavaScript | 📅 2013-03-24 - The typewriter effect
@@ -101,7 +101,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Rain & Snow
 
-* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,775 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
+* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,777 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 * [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 555 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
 * [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 443 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
 * [smoke.js](https://github.com/bijection/smoke.js) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
@@ -126,7 +126,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Loading Effect
 
 * [Whirl](https://github.com/jh3y/whirl) ⭐ 1,837 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
-* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,341 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
+* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,342 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
 * [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,822 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,418 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,418 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 584 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 525 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 495 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

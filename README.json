@@ -1206,7 +1206,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2674,
+                "stars": 2673,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1356,7 +1356,7 @@
                 "open_issues": 1,
                 "owner": "lindelof",
                 "repo": "power-mode-input",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "input",
                   "magic-input",
@@ -1674,7 +1674,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1775,
+                "stars": 1777,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2144,7 +2144,7 @@
                 "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1341,
+                "stars": 1342,
                 "topics": [
                   "less",
                   "loading-animations",
@@ -3051,7 +3051,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-01-26T14:29:38Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
                 "stars": 1418,
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:45:07.025Z",
+    "last_updated": "2026-09-14T02:02:40.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
