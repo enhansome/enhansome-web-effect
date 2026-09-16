@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,085 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,422 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -43,7 +43,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Makisu](https://github.com/soulwire/Makisu) ⭐ 1,519 | 🐛 10 | 🌐 CSS | 📅 2022-07-28 - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
 * [photon](https://github.com/thomasxiii/photon) ⭐ 1,445 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
 * [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,013 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
-* [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 473 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
+* [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 474 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
 * [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 370 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
 * [css-space-shooter](https://github.com/michaelbromley/css-space-shooter) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-08 - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
 * [quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) ⭐ 68 | 🐛 0 | 🌐 CSS | 📅 2021-05-30 - The Quintessential Responsive 3D CSS Cube
@@ -88,7 +88,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Transition Effect
 
-* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,013 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
+* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,012 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
 * [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2015-04-10 - Demonstration of different animation effects with AngularJS ngView directive.
 * [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 137 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
 * [transitions](https://github.com/2youyou2/transitions) ⭐ 123 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-25 - Transition effect for Cocos Creator
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
