@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,422 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,812 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -12,7 +12,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Background Decoration
 
-* [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,490 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
+* [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,489 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
 * [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,134 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 670 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
 * [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 540 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
