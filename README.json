@@ -117,7 +117,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "MorphingBackgroundShapes",
-                "stars": 396,
+                "stars": 397,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4058,
+                "stars": 4057,
                 "topics": [
                   "90s",
                   "canvas",
@@ -826,7 +826,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1818,
+                "stars": 1817,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "rendro",
                 "repo": "vintageJS",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "canvas",
                   "image-processing",
@@ -963,7 +963,7 @@
                 "open_issues": 28,
                 "owner": "codrops",
                 "repo": "ThumbnailGridExpandingPreview",
-                "stars": 357,
+                "stars": 358,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2103,7 +2103,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1837,
+                "stars": 1836,
                 "topics": [
                   "animation",
                   "css",
@@ -2765,7 +2765,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "DistortedLinkEffects",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "hover-effects",
                   "links",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T02:06:29.291Z",
+    "last_updated": "2026-09-18T01:53:52.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",

@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,812 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,197 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -16,7 +16,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,134 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 670 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
 * [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 540 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
-* [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) ⭐ 396 | 🐛 2 | 🌐 HTML | 📅 2017-05-23 - A decorative website background effect where SVG shapes morph and transform on scroll..
+* [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) ⭐ 397 | 🐛 2 | 🌐 HTML | 📅 2017-05-23 - A decorative website background effect where SVG shapes morph and transform on scroll..
 * [sparticles](https://github.com/simeydotme/sparticles) ⭐ 284 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-25 - Vanilla particles which can be used in a background or in a container, very fast and lightweight.
 * [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) ⭐ 232 | 🐛 3 | 🌐 Vue | 📅 2021-03-20 - A vue.js particles animation background component. Use it to make your website look cool.
 * [jquery-bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 192 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,058 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,057 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 431 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 400 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -54,13 +54,13 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Image Effect
 
-* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,818 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
-* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 842 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
+* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,817 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
+* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 843 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
 * [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 833 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
 * [gridder](https://github.com/oriongunning/gridder) ⭐ 456 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
-* [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 357 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
+* [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 358 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
 * [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 317 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
 * [HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) ⭐ 308 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-11 - Animated haze distortion effect for images and text, with WebGL
 * [StickyImageEffect](https://github.com/Anemolo/StickyImageEffect) ⭐ 232 | 🐛 4 | 🌐 JavaScript | 📅 2019-04-17 - A sticky image effect for a slideshow inspired by ultanoir's website.
@@ -125,7 +125,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Loading Effect
 
-* [Whirl](https://github.com/jh3y/whirl) ⭐ 1,837 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
+* [Whirl](https://github.com/jh3y/whirl) ⭐ 1,836 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,342 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
@@ -160,7 +160,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 767 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
-* [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 143 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
+* [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
 * [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) ⭐ 143 | 🐛 1 | 🌐 HTML | 📅 2016-12-19 - An experimental SVG letter animation inspired by the Dribbble shot "Shading Letters in Illustrator" by Jake Bartlett's. Powered by Julian Garnier's anime.js.
 * [svg-animation](https://github.com/hellomichael/svg-animation) ⭐ 117 | 🐛 0 | 🌐 JavaScript | 📅 2016-07-26 - The Illusion of Life: An SVG Animation Case Study
 * [circle-svg-animation](https://github.com/crealime/circle-svg-animation) ⭐ 25 | 🐛 0 | 🌐 CSS | 📅 2019-11-01 - Circle SVG Animation
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
