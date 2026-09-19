@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6489,
+                "stars": 6488,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -42,7 +42,7 @@
                 "open_issues": 28,
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1134,
+                "stars": 1135,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -210,7 +210,7 @@
                 "open_issues": 17,
                 "owner": "rewish",
                 "repo": "jquery-bgswitcher",
-                "stars": 192,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4057,
+                "stars": 4056,
                 "topics": [
                   "90s",
                   "canvas",
@@ -581,7 +581,7 @@
                 "open_issues": 10,
                 "owner": "soulwire",
                 "repo": "Makisu",
-                "stars": 1519,
+                "stars": 1517,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -896,7 +896,7 @@
                 "open_issues": 18,
                 "owner": "gre",
                 "repo": "diaporama",
-                "stars": 784,
+                "stars": 783,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1073,7 +1073,7 @@
                 "open_issues": 17,
                 "owner": "rewish",
                 "repo": "jquery-bgswitcher",
-                "stars": 192,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2103,7 +2103,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1836,
+                "stars": 1835,
                 "topics": [
                   "animation",
                   "css",
@@ -2304,7 +2304,7 @@
                 "open_issues": 9,
                 "owner": "cwilso",
                 "repo": "Audio-Input-Effects",
-                "stars": 562,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:53:52.057Z",
+    "last_updated": "2026-09-19T01:58:37.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3160,
+      "stars": 3159,
       "topics": [
         "awesome",
         "web-effect"
