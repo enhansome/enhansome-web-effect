@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4056,
+                "stars": 4057,
                 "topics": [
                   "90s",
                   "canvas",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:58:37.982Z",
+    "last_updated": "2026-09-20T02:02:15.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
