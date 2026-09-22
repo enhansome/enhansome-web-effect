@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,275 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,677 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -12,7 +12,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Background Decoration
 
-* [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,488 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
+* [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,487 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
 * [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,135 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 670 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
 * [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 540 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
@@ -27,8 +27,8 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,060 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
-* [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 431 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,062 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 400 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
 * [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 226 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
@@ -61,7 +61,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
 * [gridder](https://github.com/oriongunning/gridder) ⭐ 456 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
 * [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 358 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
-* [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 317 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
+* [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 316 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
 * [HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) ⭐ 308 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-11 - Animated haze distortion effect for images and text, with WebGL
 * [StickyImageEffect](https://github.com/Anemolo/StickyImageEffect) ⭐ 232 | 🐛 4 | 🌐 JavaScript | 📅 2019-04-17 - A sticky image effect for a slideshow inspired by ultanoir's website.
 * [gl-react-image-effects](https://github.com/gre/gl-react-image-effects) ⭐ 221 | 🐛 3 | 🌐 JavaScript | 📅 2016-02-19 - universal image app that uses different gl-react components
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

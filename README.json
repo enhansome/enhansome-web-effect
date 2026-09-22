@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6488,
+                "stars": 6487,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4060,
+                "stars": 4062,
                 "topics": [
                   "90s",
                   "canvas",
@@ -355,7 +355,7 @@
                 "open_issues": 12,
                 "owner": "jonathandion",
                 "repo": "react-tilt",
-                "stars": 431,
+                "stars": 430,
                 "topics": [
                   "3d",
                   "animation",
@@ -984,7 +984,7 @@
                 "open_issues": 4,
                 "owner": "peachananr",
                 "repo": "tiltedpage_scroll",
-                "stars": 317,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T02:03:01.011Z",
+    "last_updated": "2026-09-22T02:09:15.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3160,
+      "stars": 3162,
       "topics": [
         "awesome",
         "web-effect"
