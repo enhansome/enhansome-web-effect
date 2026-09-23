@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,677 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,052 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -21,17 +21,17 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) ⭐ 232 | 🐛 3 | 🌐 Vue | 📅 2021-03-20 - A vue.js particles animation background component. Use it to make your website look cool.
 * [jquery-bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 191 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
 * [ImageGridMotionEffect](https://github.com/codrops/ImageGridMotionEffect) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-23 - A motion hover effect for a background grid of images..
-* [BackgroundScaleHoverEffect](https://github.com/codrops/BackgroundScaleHoverEffect) ⭐ 123 | 🐛 0 | 🌐 HTML | 📅 2020-03-11 - Recreation of the background scale hover effect seen on the DDD Hotel website using CSS clip paths.
+* [BackgroundScaleHoverEffect](https://github.com/codrops/BackgroundScaleHoverEffect) ⭐ 124 | 🐛 0 | 🌐 HTML | 📅 2020-03-11 - Recreation of the background scale hover effect seen on the DDD Hotel website using CSS clip paths.
 * [jquery-warpdrive-plugin](https://github.com/NiklasKnaack/jquery-warpdrive-plugin) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2022-06-01 - Warp drive is a lightweight jQuery plugin that helps you create a cool, interactive, configurable, HTML5 canvas based warp drive/starfield effect.
 * [fixed-background-effect](https://github.com/CodyHouse/fixed-background-effect) ⭐ 53 | 🐛 0 | 🌐 CSS | 📅 2015-03-25 - A simple template that takes advantage of the background-attachment CSS property to create a fixed background effect.
 
 ### Mouse Effect
 
 * [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,062 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
-* [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
+* [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 11 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 400 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
-* [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 226 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
+* [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 227 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
 * [mouse-particles](https://github.com/lindelof/react-mouse-particles) ⭐ 115 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-01 - AboutA mouse particle effect react component
 * [magneticHover](https://github.com/Halo-Lab/magneticHover) ⭐ 41 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-07 - magneticHover lets you trigger hover effect on the element when the cursor is near it, but not over it yet
 * [vuepress-plugin-cursor-effects](https://github.com/moefyit/vuepress-plugin-cursor-effects) ⚠️ Archived - Add a cute click effect to your mouse in your vuepress!
@@ -67,7 +67,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [gl-react-image-effects](https://github.com/gre/gl-react-image-effects) ⭐ 221 | 🐛 3 | 🌐 JavaScript | 📅 2016-02-19 - universal image app that uses different gl-react components
 * [bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 191 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
 * [FullImageReveal](https://github.com/codrops/FullImageReveal) ⭐ 164 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-12 - A full image reveal effect with fancy thumbnail sliding.
-* [ImageDraggingEffects](https://github.com/codrops/ImageDraggingEffects) ⭐ 79 | 🐛 2 | 🌐 JavaScript | 📅 2020-02-07 - A set of playful dragging effects for images using various techniques..
+* [ImageDraggingEffects](https://github.com/codrops/ImageDraggingEffects) ⭐ 80 | 🐛 2 | 🌐 JavaScript | 📅 2020-02-07 - A set of playful dragging effects for images using various techniques..
 * [react-native-kenburns-view](https://github.com/nHiRanZ/react-native-kenburns-view) ⭐ 62 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-25 - KenBurns Image Effect for React Native Applications
 * [MotionTransitionEffect](https://github.com/codrops/MotionTransitionEffect) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-11 - A speedy motion transition effect for an image slideshow.
 * [FollowCursor](https://github.com/bersLucas/FollowCursor) ⚠️ Archived - Rotate elements to create a following effect
@@ -160,7 +160,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
-* [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
+* [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 145 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
 * [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) ⭐ 143 | 🐛 1 | 🌐 HTML | 📅 2016-12-19 - An experimental SVG letter animation inspired by the Dribbble shot "Shading Letters in Illustrator" by Jake Bartlett's. Powered by Julian Garnier's anime.js.
 * [svg-animation](https://github.com/hellomichael/svg-animation) ⭐ 117 | 🐛 0 | 🌐 JavaScript | 📅 2016-07-26 - The Illusion of Life: An SVG Animation Case Study
 * [circle-svg-animation](https://github.com/crealime/circle-svg-animation) ⭐ 25 | 🐛 0 | 🌐 CSS | 📅 2019-11-01 - Circle SVG Animation
@@ -179,7 +179,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,822 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
 * [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,418 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
-* [jsfx](https://github.com/loov/jsfx) ⭐ 584 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
+* [jsfx](https://github.com/loov/jsfx) ⭐ 585 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 525 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 495 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
 * [svg-Circus](https://github.com/alexk111/SVG-Circus) ⭐ 331 | 🐛 2 | 🌐 JavaScript | 📅 2014-11-06 - Create cool animated SVG spinners, loaders and other looped animations in seconds.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

@@ -259,7 +259,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "BackgroundScaleHoverEffect",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -352,7 +352,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2023-10-15T14:11:14Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "jonathandion",
                 "repo": "react-tilt",
                 "stars": 430,
@@ -432,7 +432,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "ImageTrailEffects",
-                "stars": 226,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1115,7 +1115,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ImageDraggingEffects",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2765,7 +2765,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "DistortedLinkEffects",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "hover-effects",
                   "links",
@@ -3075,7 +3075,7 @@
                 "open_issues": 2,
                 "owner": "loov",
                 "repo": "jsfx",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "game-development",
                   "javascript",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T02:09:15.327Z",
+    "last_updated": "2026-09-23T02:08:38.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3451,7 +3451,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3162,
+      "stars": 3163,
       "topics": [
         "awesome",
         "web-effect"
