@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,052 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,483 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,062 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,063 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 11 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 400 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -104,7 +104,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,778 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 * [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 555 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
 * [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 443 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
-* [smoke.js](https://github.com/bijection/smoke.js) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
+* [smoke.js](https://github.com/bijection/smoke.js) ⭐ 276 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
 * [snowstorm](https://github.com/burakcan/react-snowstorm) ⭐ 221 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-04 - A Snow Effect component for React. Uses Snowstorm under the hood.
 * [the-matrix-effect](https://github.com/JefersonLucas/the-matrix-effect) ⭐ 156 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-23 - The incredible effect of rain of letters in the style of the Matrix trilogy.
 * [aframe-rain](https://github.com/takahirox/aframe-rain) ⭐ 43 | 🐛 4 | 🌐 JavaScript | 📅 2017-02-23 - aframe-rain is Rainfall effect component for A-Frame which displays a lot of rain drop/splash objects by using instancing technique with good performance.
@@ -116,7 +116,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,260 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 876 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
-* [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 485 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
+* [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 486 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 346 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
 * [vue-particle-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) ⭐ 260 | 🐛 38 | 🌐 HTML | 📅 2024-10-22 - A bursting particles effects buttons component
 * [react-parallax-button](https://github.com/venits/react-parallax-button) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-08 - Bring your react buttons to next level with parallax effect.
@@ -177,7 +177,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Other Effect
 
-* [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,822 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
+* [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,821 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
 * [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,418 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 585 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 525 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

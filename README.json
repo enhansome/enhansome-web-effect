@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4062,
+                "stars": 4063,
                 "topics": [
                   "90s",
                   "canvas",
@@ -1737,7 +1737,7 @@
                 "open_issues": 3,
                 "owner": "bijection",
                 "repo": "smoke.js",
-                "stars": 277,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1958,7 +1958,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "MagneticButtons",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "button-animation"
                 ]
@@ -2095,7 +2095,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "CSS loading animations with minimal effort!",
-                "homepage": "https://whirl.netlify.com",
+                "homepage": "https://whirl.netlify.app",
                 "id": 17076269,
                 "language": "SCSS",
                 "license": "MIT",
@@ -3031,7 +3031,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1822,
+                "stars": 1821,
                 "topics": [
                   "javascript"
                 ]
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T02:08:38.669Z",
+    "last_updated": "2026-09-24T01:55:48.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
