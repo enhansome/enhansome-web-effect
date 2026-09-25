@@ -644,7 +644,7 @@
                 "open_issues": 5,
                 "owner": "juliangarnier",
                 "repo": "3D-CSS-Solar-System",
-                "stars": 474,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -917,7 +917,7 @@
                 "open_issues": 3,
                 "owner": "codrops",
                 "repo": "ImageTiltEffect",
-                "stars": 567,
+                "stars": 568,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "lbebber",
                 "repo": "HeatDistortionEffect",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1206,7 +1206,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2673,
+                "stars": 2672,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1453,7 +1453,7 @@
                 "open_issues": 20,
                 "owner": "codrops",
                 "repo": "ModalWindowEffects",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1583,7 +1583,7 @@
                 "open_issues": 1,
                 "owner": "codyhouse",
                 "repo": "animated-transition-effects",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1937,7 +1937,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ElasticProgress",
-                "stars": 876,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2103,7 +2103,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1835,
+                "stars": 1836,
                 "topics": [
                   "animation",
                   "css",
@@ -2144,7 +2144,7 @@
                 "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1342,
+                "stars": 1343,
                 "topics": [
                   "less",
                   "loading-animations",
@@ -2171,7 +2171,7 @@
                 "open_issues": 20,
                 "owner": "joaopereirawd",
                 "repo": "fakeLoader.js",
-                "stars": 714,
+                "stars": 715,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2192,7 +2192,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "PageLoadingEffects",
-                "stars": 641,
+                "stars": 642,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2624,7 +2624,7 @@
                 "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1981,
+                "stars": 1980,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:55:48.932Z",
+    "last_updated": "2026-09-25T02:12:30.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
