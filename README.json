@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6486,
+                "stars": 6487,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4064,
+                "stars": 4065,
                 "topics": [
                   "90s",
                   "canvas",
@@ -385,7 +385,7 @@
                 "open_issues": 18,
                 "owner": "akella",
                 "repo": "webgl-mouseover-effects",
-                "stars": 400,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1674,7 +1674,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1778,
+                "stars": 1779,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2394,7 +2394,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2015-09-05T11:53:51Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "HenrikJoreteg",
                 "repo": "SoundEffectManager",
                 "stars": 6,
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T02:12:35.518Z",
+    "last_updated": "2026-09-28T02:17:11.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
