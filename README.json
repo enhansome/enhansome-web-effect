@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "lindelof",
                 "repo": "particles-bg",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "backgrounds",
                   "login-template",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4065,
+                "stars": 4066,
                 "topics": [
                   "90s",
                   "canvas",
@@ -826,7 +826,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1206,7 +1206,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2672,
+                "stars": 2673,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -2144,7 +2144,7 @@
                 "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1343,
+                "stars": 1342,
                 "topics": [
                   "less",
                   "loading-animations",
@@ -2304,7 +2304,7 @@
                 "open_issues": 9,
                 "owner": "cwilso",
                 "repo": "Audio-Input-Effects",
-                "stars": 561,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2718,7 +2718,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "OrganicShapeAnimations",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3075,7 +3075,7 @@
                 "open_issues": 2,
                 "owner": "loov",
                 "repo": "jsfx",
-                "stars": 585,
+                "stars": 584,
                 "topics": [
                   "game-development",
                   "javascript",
@@ -3101,7 +3101,7 @@
                 "open_issues": 2,
                 "owner": "felixturner",
                 "repo": "bad-tv-shader",
-                "stars": 525,
+                "stars": 526,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T02:17:11.849Z",
+    "last_updated": "2026-09-29T03:01:57.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
