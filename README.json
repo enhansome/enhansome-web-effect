@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4066,
+                "stars": 4065,
                 "topics": [
                   "90s",
                   "canvas",
@@ -644,7 +644,7 @@
                 "open_issues": 5,
                 "owner": "juliangarnier",
                 "repo": "3D-CSS-Solar-System",
-                "stars": 473,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1115,7 +1115,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ImageDraggingEffects",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1779,7 +1779,7 @@
                 "open_issues": 1,
                 "owner": "JefersonLucas",
                 "repo": "the-matrix-effect",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "canvas",
                   "canvas-2d-context",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T03:01:57.562Z",
+    "last_updated": "2026-09-30T02:43:25.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",

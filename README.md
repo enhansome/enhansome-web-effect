@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,042 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,497 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,066 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,065 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 11 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 401 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -43,7 +43,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Makisu](https://github.com/soulwire/Makisu) ⭐ 1,517 | 🐛 10 | 🌐 CSS | 📅 2022-07-28 - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
 * [photon](https://github.com/thomasxiii/photon) ⭐ 1,445 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
 * [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,013 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
-* [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 473 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
+* [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 474 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
 * [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 370 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
 * [css-space-shooter](https://github.com/michaelbromley/css-space-shooter) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-08 - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
 * [quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) ⭐ 68 | 🐛 0 | 🌐 CSS | 📅 2021-05-30 - The Quintessential Responsive 3D CSS Cube
@@ -67,7 +67,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [gl-react-image-effects](https://github.com/gre/gl-react-image-effects) ⭐ 221 | 🐛 3 | 🌐 JavaScript | 📅 2016-02-19 - universal image app that uses different gl-react components
 * [bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 191 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
 * [FullImageReveal](https://github.com/codrops/FullImageReveal) ⭐ 164 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-12 - A full image reveal effect with fancy thumbnail sliding.
-* [ImageDraggingEffects](https://github.com/codrops/ImageDraggingEffects) ⭐ 80 | 🐛 2 | 🌐 JavaScript | 📅 2020-02-07 - A set of playful dragging effects for images using various techniques..
+* [ImageDraggingEffects](https://github.com/codrops/ImageDraggingEffects) ⭐ 79 | 🐛 2 | 🌐 JavaScript | 📅 2020-02-07 - A set of playful dragging effects for images using various techniques..
 * [react-native-kenburns-view](https://github.com/nHiRanZ/react-native-kenburns-view) ⭐ 62 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-25 - KenBurns Image Effect for React Native Applications
 * [MotionTransitionEffect](https://github.com/codrops/MotionTransitionEffect) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-11 - A speedy motion transition effect for an image slideshow.
 * [FollowCursor](https://github.com/bersLucas/FollowCursor) ⚠️ Archived - Rotate elements to create a following effect
@@ -106,7 +106,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 443 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
 * [smoke.js](https://github.com/bijection/smoke.js) ⭐ 276 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
 * [snowstorm](https://github.com/burakcan/react-snowstorm) ⭐ 221 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-04 - A Snow Effect component for React. Uses Snowstorm under the hood.
-* [the-matrix-effect](https://github.com/JefersonLucas/the-matrix-effect) ⭐ 156 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-23 - The incredible effect of rain of letters in the style of the Matrix trilogy.
+* [the-matrix-effect](https://github.com/JefersonLucas/the-matrix-effect) ⭐ 157 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-23 - The incredible effect of rain of letters in the style of the Matrix trilogy.
 * [aframe-rain](https://github.com/takahirox/aframe-rain) ⭐ 43 | 🐛 4 | 🌐 JavaScript | 📅 2017-02-23 - aframe-rain is Rainfall effect component for A-Frame which displays a lot of rain drop/splash objects by using instancing technique with good performance.
 * [snowy](https://github.com/fforw/snowy) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2014-12-29 - A HTML5 snow effect with random generated snow flakes.
 * [react-snow-effect](https://github.com/jungledre/react-snow-effect) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2016-12-24 - react-snow-effect.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
