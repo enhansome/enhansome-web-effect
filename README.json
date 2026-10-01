@@ -826,7 +826,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1674,7 +1674,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1779,
+                "stars": 1780,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2144,7 +2144,7 @@
                 "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "less",
                   "loading-animations",
@@ -2853,7 +2853,7 @@
                 "open_issues": 0,
                 "owner": "projapati66",
                 "repo": "Svg-IsometricCityAnimation",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:43:25.107Z",
+    "last_updated": "2026-10-01T02:48:50.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",

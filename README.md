@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,497 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,909 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -54,7 +54,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Image Effect
 
-* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,816 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
+* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,817 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
 * [vintageJS](https://github.com/rendro/vintageJS) ⭐ 843 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
 * [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 833 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
@@ -101,7 +101,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Rain & Snow
 
-* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,779 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
+* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,780 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 * [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 555 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
 * [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 443 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
 * [smoke.js](https://github.com/bijection/smoke.js) ⭐ 276 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
@@ -126,7 +126,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Loading Effect
 
 * [Whirl](https://github.com/jh3y/whirl) ⭐ 1,836 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
-* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,342 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
+* [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,344 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 642 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
 * [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
@@ -164,7 +164,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) ⭐ 143 | 🐛 1 | 🌐 HTML | 📅 2016-12-19 - An experimental SVG letter animation inspired by the Dribbble shot "Shading Letters in Illustrator" by Jake Bartlett's. Powered by Julian Garnier's anime.js.
 * [svg-animation](https://github.com/hellomichael/svg-animation) ⭐ 117 | 🐛 0 | 🌐 JavaScript | 📅 2016-07-26 - The Illusion of Life: An SVG Animation Case Study
 * [circle-svg-animation](https://github.com/crealime/circle-svg-animation) ⭐ 25 | 🐛 0 | 🌐 CSS | 📅 2019-11-01 - Circle SVG Animation
-* [IsometricCityAnimation](https://github.com/projapati66/Svg-IsometricCityAnimation) ⭐ 21 | 🐛 0 | 🌐 HTML | 📅 2018-02-13 - This is a simple svg isometric city animation with GSAP
+* [IsometricCityAnimation](https://github.com/projapati66/Svg-IsometricCityAnimation) ⭐ 22 | 🐛 0 | 🌐 HTML | 📅 2018-02-13 - This is a simple svg isometric city animation with GSAP
 
 ### Fireworks
 
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
