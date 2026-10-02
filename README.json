@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6487,
+                "stars": 6484,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -231,7 +231,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "ImageGridMotionEffect",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "css",
                   "gsap",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4065,
+                "stars": 4067,
                 "topics": [
                   "90s",
                   "canvas",
@@ -917,7 +917,7 @@
                 "open_issues": 3,
                 "owner": "codrops",
                 "repo": "ImageTiltEffect",
-                "stars": 568,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "lbebber",
                 "repo": "HeatDistortionEffect",
-                "stars": 309,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1206,7 +1206,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2673,
+                "stars": 2674,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -3439,7 +3439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:48:50.526Z",
+    "last_updated": "2026-10-02T02:51:58.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
