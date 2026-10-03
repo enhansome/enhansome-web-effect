@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,299 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,765 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -35,8 +35,8 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [mouse-particles](https://github.com/lindelof/react-mouse-particles) ⭐ 115 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-01 - AboutA mouse particle effect react component
 * [magneticHover](https://github.com/Halo-Lab/magneticHover) ⭐ 41 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-07 - magneticHover lets you trigger hover effect on the element when the cursor is near it, but not over it yet
 * [vuepress-plugin-cursor-effects](https://github.com/moefyit/vuepress-plugin-cursor-effects) ⚠️ Archived - Add a cute click effect to your mouse in your vuepress!
-* [mouse-text-shadow](https://github.com/Isa2008/mouse-text-shadow) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2019-11-23 - CSS shadow effect & JavaScript mouse move
 * [jquery-animate3d](https://github.com/putnamn21/jquery-animate3d) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2016-06-23 - jQuery plugin that gives elements a 3d mouse over effect
+* [mouse-text-shadow](https://github.com/Isa2008/mouse-text-shadow) - CSS shadow effect & JavaScript mouse move
 
 ### Css 3D Effect
 
@@ -157,7 +157,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,980 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 822 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
-* [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
+* [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 767 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 220 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 * [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -518,27 +518,6 @@
             },
             {
               "node_type": "item",
-              "title": "mouse-text-shadow",
-              "description": "CSS shadow effect & JavaScript mouse move",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CSS shadow effect & JavaScript mouse move",
-                "homepage": "https://isa2008.github.io/mouse-text-shadow/",
-                "id": 223608627,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2019-11-23T15:36:22Z",
-                "open_issues": 0,
-                "owner": "Isa2008",
-                "repo": "mouse-text-shadow",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T07:23:14.260Z"
-            },
-            {
-              "node_type": "item",
               "title": "jquery-animate3d",
               "description": "jQuery plugin that gives elements a 3d mouse over effect",
               "children": [],
@@ -2691,7 +2670,7 @@
                 "open_issues": 8,
                 "owner": "lcdsantos",
                 "repo": "jquery-drawsvg",
-                "stars": 766,
+                "stars": 767,
                 "topics": [
                   "animation",
                   "jquery",
@@ -3439,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:51:58.373Z",
+    "last_updated": "2026-10-03T02:38:28.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
