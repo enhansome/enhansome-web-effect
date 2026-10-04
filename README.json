@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4067,
+                "stars": 4066,
                 "topics": [
                   "90s",
                   "canvas",
@@ -602,7 +602,7 @@
                 "open_issues": 6,
                 "owner": "desandro",
                 "repo": "3dtransforms",
-                "stars": 1013,
+                "stars": 1012,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2674,
+                "stars": 2673,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1780,
+                "stars": 1781,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1889,7 +1889,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1261,
+                "stars": 1262,
                 "topics": [
                   "animation",
                   "animejs",
@@ -1937,7 +1937,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "MagneticButtons",
-                "stars": 486,
+                "stars": 485,
                 "topics": [
                   "button-animation"
                 ]
@@ -2082,7 +2082,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1836,
+                "stars": 1835,
                 "topics": [
                   "animation",
                   "css",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:55.951Z",
+    "last_updated": "2026-10-04T03:09:35.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
