@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4066,
+                "stars": 4067,
                 "topics": [
                   "90s",
                   "canvas",
@@ -432,7 +432,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "ImageTrailEffects",
-                "stars": 227,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2673,
+                "stars": 2670,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1781,
+                "stars": 1782,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1716,7 +1716,7 @@
                 "open_issues": 3,
                 "owner": "bijection",
                 "repo": "smoke.js",
-                "stars": 276,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2304,7 +2304,7 @@
                 "open_issues": 22,
                 "owner": "rainner",
                 "repo": "soma-fm-player",
-                "stars": 147,
+                "stars": 148,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T03:09:35.723Z",
+    "last_updated": "2026-10-05T02:43:49.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3164,
+      "stars": 3162,
       "topics": [
         "awesome",
         "web-effect"
