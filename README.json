@@ -560,7 +560,7 @@
                 "open_issues": 10,
                 "owner": "soulwire",
                 "repo": "Makisu",
-                "stars": 1517,
+                "stars": 1516,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -644,7 +644,7 @@
                 "open_issues": 1,
                 "owner": "unconed",
                 "repo": "CSS3D.js",
-                "stars": 370,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1232,7 +1232,7 @@
                 "open_issues": 4,
                 "owner": "ChrisCavs",
                 "repo": "t-writer.js",
-                "stars": 510,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1889,7 +1889,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1262,
+                "stars": 1263,
                 "topics": [
                   "animation",
                   "animejs",
@@ -2171,7 +2171,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "PageLoadingEffects",
-                "stars": 642,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T02:43:49.967Z",
+    "last_updated": "2026-10-06T03:35:38.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3162,
+      "stars": 3161,
       "topics": [
         "awesome",
         "web-effect"

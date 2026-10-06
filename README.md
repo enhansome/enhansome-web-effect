@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,720 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,223 | 🐛 107 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -40,11 +40,11 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Css 3D Effect
 
-* [Makisu](https://github.com/soulwire/Makisu) ⭐ 1,517 | 🐛 10 | 🌐 CSS | 📅 2022-07-28 - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
+* [Makisu](https://github.com/soulwire/Makisu) ⭐ 1,516 | 🐛 10 | 🌐 CSS | 📅 2022-07-28 - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
 * [photon](https://github.com/thomasxiii/photon) ⭐ 1,445 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
 * [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,012 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
 * [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 474 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
-* [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 370 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
+* [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 369 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
 * [css-space-shooter](https://github.com/michaelbromley/css-space-shooter) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-08 - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
 * [quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) ⭐ 68 | 🐛 0 | 🌐 CSS | 📅 2021-05-30 - The Quintessential Responsive 3D CSS Cube
 * [cube.less](https://github.com/sparanoid/cube.less) ⭐ 55 | 🐛 1 | 🌐 Less | 📅 2026-07-07 - 3D (animated) cube using only CSS (Less), originally used by LeanCloud
@@ -76,7 +76,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,670 | 🐛 94 | 🌐 JavaScript | 📅 2025-04-29 - A simple yet powerful native javascript plugin for a cool typewriter effect.
 * [TextInputEffects](https://github.com/codrops/TextInputEffects) ⭐ 953 | 🐛 3 | 🌐 CSS | 📅 2017-03-19 - Simple styles and effects for enhancing text input interactions.
-* [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 510 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
+* [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 509 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
 * [t.js](https://github.com/mntn-dev/t.js) ⚠️ Archived - Lightweight $.Hypertext.Typewriter
 * [malarkey](https://github.com/yuanqing/malarkey) ⭐ 237 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-30 - Simulate a typewriter effect in vanilla JavaScript.
 * [shuffle-text](https://github.com/ics-ikeda/shuffle-text) ⭐ 136 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-09 - "shuffle-text" is JavaScript text effect library such as cool legacy of Flash.
@@ -114,7 +114,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Button Effect
 
-* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,262 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
+* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,263 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 875 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
 * [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 485 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 346 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
@@ -128,7 +128,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Whirl](https://github.com/jh3y/whirl) ⭐ 1,835 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,344 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
-* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 642 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
+* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
 * [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
 * [ArtWorx-xLoader](https://github.com/AnasTawfeek/ArtWorx-xLoader) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2016-11-18 - Pure css cross-browser loading animations.
 * [css-page-loader](https://github.com/Viglino/css-page-loader) ⭐ 10 | 🐛 2 | 🌐 CSS | 📅 2022-10-07 - Lightweight CSS loading animations to use when page loads
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
