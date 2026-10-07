@@ -42,7 +42,7 @@
                 "open_issues": 28,
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1135,
+                "stars": 1134,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -138,7 +138,7 @@
                 "open_issues": 11,
                 "owner": "simeydotme",
                 "repo": "sparticles",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "animation",
                   "canvas",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4068,
+                "stars": 4069,
                 "topics": [
                   "90s",
                   "canvas",
@@ -644,7 +644,7 @@
                 "open_issues": 1,
                 "owner": "unconed",
                 "repo": "CSS3D.js",
-                "stars": 369,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1782,
+                "stars": 1783,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2082,7 +2082,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1835,
+                "stars": 1836,
                 "topics": [
                   "animation",
                   "css",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:02:05.795Z",
+    "last_updated": "2026-10-07T03:01:27.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
