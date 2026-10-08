@@ -385,7 +385,7 @@
                 "open_issues": 18,
                 "owner": "akella",
                 "repo": "webgl-mouseover-effects",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2082,7 +2082,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1836,
+                "stars": 1837,
                 "topics": [
                   "animation",
                   "css",
@@ -2283,7 +2283,7 @@
                 "open_issues": 9,
                 "owner": "cwilso",
                 "repo": "Audio-Input-Effects",
-                "stars": 560,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3010,7 +3010,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1821,
+                "stars": 1820,
                 "topics": [
                   "javascript"
                 ]
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T03:01:27.226Z",
+    "last_updated": "2026-10-08T03:18:02.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3161,
+      "stars": 3160,
       "topics": [
         "awesome",
         "web-effect"

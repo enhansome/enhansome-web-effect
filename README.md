@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,668 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,152 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -29,7 +29,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,069 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 11 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
-* [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 401 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
+* [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 402 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
 * [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 228 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
 * [mouse-particles](https://github.com/lindelof/react-mouse-particles) ⭐ 115 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-01 - AboutA mouse particle effect react component
@@ -125,7 +125,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Loading Effect
 
-* [Whirl](https://github.com/jh3y/whirl) ⭐ 1,836 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
+* [Whirl](https://github.com/jh3y/whirl) ⭐ 1,837 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,344 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
@@ -136,7 +136,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Audio Effect
 
-* [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) ⭐ 560 | 🐛 9 | 🌐 JavaScript | 📅 2024-07-23 - Live Audio Input effects
+* [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) ⭐ 559 | 🐛 9 | 🌐 JavaScript | 📅 2024-07-23 - Live Audio Input effects
 * [soma-fm-player](https://github.com/rainner/soma-fm-player) ⭐ 148 | 🐛 22 | 🌐 JavaScript | 📅 2026-07-15 - SomaFM Music Player Web-App
 * [beez](https://github.com/gre/beez) ⚠️ Archived - 100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)
 * [soundbank](https://github.com/mmckegg/soundbank-reverb) ⭐ 23 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-11 - Simple Web Audio API based reverb effect.
@@ -177,7 +177,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Other Effect
 
-* [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,821 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
+* [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,820 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
 * [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,417 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 584 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 526 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
