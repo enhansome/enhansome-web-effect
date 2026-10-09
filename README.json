@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4069,
+                "stars": 4070,
                 "topics": [
                   "90s",
                   "canvas",
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2670,
+                "stars": 2671,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -2150,7 +2150,7 @@
                 "open_issues": 20,
                 "owner": "joaopereirawd",
                 "repo": "fakeLoader.js",
-                "stars": 715,
+                "stars": 714,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3010,7 +3010,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": [
                   "javascript"
                 ]
@@ -3281,7 +3281,7 @@
                 "open_issues": 3,
                 "owner": "mykle1",
                 "repo": "MMM-EyeCandy",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T03:18:02.386Z",
+    "last_updated": "2026-10-09T03:23:50.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3160,
+      "stars": 3162,
       "topics": [
         "awesome",
         "web-effect"
