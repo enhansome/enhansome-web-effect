@@ -2150,7 +2150,7 @@
                 "open_issues": 20,
                 "owner": "joaopereirawd",
                 "repo": "fakeLoader.js",
-                "stars": 714,
+                "stars": 713,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2192,7 +2192,7 @@
                 "open_issues": 0,
                 "owner": "ZachSaucier",
                 "repo": "Asset-Loading-Effects",
-                "stars": 106,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3030,10 +3030,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-01-26T14:29:38Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1417,
+                "stars": 1454,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:23:50.752Z",
+    "last_updated": "2026-10-10T03:03:35.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",

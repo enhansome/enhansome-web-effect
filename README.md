@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,390 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,833 | 🐛 106 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -129,7 +129,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,344 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
-* [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
+* [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
 * [ArtWorx-xLoader](https://github.com/AnasTawfeek/ArtWorx-xLoader) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2016-11-18 - Pure css cross-browser loading animations.
 * [css-page-loader](https://github.com/Viglino/css-page-loader) ⭐ 10 | 🐛 2 | 🌐 CSS | 📅 2022-10-07 - Lightweight CSS loading animations to use when page loads
 * [LoadEffect](https://github.com/Auklets/LoadEffect) ⭐ 3 | 🐛 34 | 🌐 JavaScript | 📅 2016-07-22 - Distributed Load Testing in Javascript-like Scripting Language.
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,821 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,417 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,454 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-26 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 584 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 526 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 495 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
