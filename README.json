@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4070,
+                "stars": 4071,
                 "topics": [
                   "90s",
                   "canvas",
@@ -805,7 +805,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2671,
+                "stars": 2670,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1432,7 +1432,7 @@
                 "open_issues": 20,
                 "owner": "codrops",
                 "repo": "ModalWindowEffects",
-                "stars": 1013,
+                "stars": 1012,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1454,
+                "stars": 1497,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3080,7 +3080,7 @@
                 "open_issues": 2,
                 "owner": "felixturner",
                 "repo": "bad-tv-shader",
-                "stars": 526,
+                "stars": 527,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T03:03:35.383Z",
+    "last_updated": "2026-10-11T02:34:46.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
