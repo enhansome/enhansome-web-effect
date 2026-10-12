@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6484,
+                "stars": 6483,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2082,7 +2082,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1837,
+                "stars": 1836,
                 "topics": [
                   "animation",
                   "css",
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1497,
+                "stars": 1512,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T02:34:46.554Z",
+    "last_updated": "2026-10-12T02:58:56.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
