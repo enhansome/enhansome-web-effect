@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "lindelof",
                 "repo": "particles-bg",
-                "stars": 671,
+                "stars": 672,
                 "topics": [
                   "backgrounds",
                   "login-template",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4071,
+                "stars": 4073,
                 "topics": [
                   "90s",
                   "canvas",
@@ -453,7 +453,7 @@
                 "open_issues": 1,
                 "owner": "lindelof",
                 "repo": "react-mouse-particles",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "mouse-effect",
                   "react-cursor",
@@ -623,7 +623,7 @@
                 "open_issues": 5,
                 "owner": "juliangarnier",
                 "repo": "3D-CSS-Solar-System",
-                "stars": 474,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -703,7 +703,7 @@
                 "id": 17163288,
                 "language": "Less",
                 "license": "MIT",
-                "last_commit": "2026-07-07T13:18:44Z",
+                "last_commit": "2026-10-12T09:40:44Z",
                 "open_issues": 1,
                 "owner": "sparanoid",
                 "repo": "cube.less",
@@ -805,7 +805,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -875,7 +875,7 @@
                 "open_issues": 18,
                 "owner": "gre",
                 "repo": "diaporama",
-                "stars": 783,
+                "stars": 782,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2670,
+                "stars": 2669,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1335,7 +1335,7 @@
                 "open_issues": 1,
                 "owner": "lindelof",
                 "repo": "power-mode-input",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "input",
                   "magic-input",
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1783,
+                "stars": 1781,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1695,7 +1695,7 @@
                 "open_issues": 2,
                 "owner": "nojvek",
                 "repo": "matrix-rain",
-                "stars": 443,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3029,11 +3029,11 @@
                 "id": 164105898,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-01-26T14:29:38Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-12T21:11:32Z",
+                "open_issues": 5,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1512,
+                "stars": 1515,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:58:56.034Z",
+    "last_updated": "2026-10-13T04:14:14.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3162,
+      "stars": 3163,
       "topics": [
         "awesome",
         "web-effect"
