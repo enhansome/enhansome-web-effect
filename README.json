@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6483,
+                "stars": 6482,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -138,7 +138,7 @@
                 "open_issues": 11,
                 "owner": "simeydotme",
                 "repo": "sparticles",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "animation",
                   "canvas",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4073,
+                "stars": 4074,
                 "topics": [
                   "90s",
                   "canvas",
@@ -352,7 +352,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2023-10-15T14:11:14Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "jonathandion",
                 "repo": "react-tilt",
                 "stars": 430,
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2669,
+                "stars": 2668,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1737,7 +1737,7 @@
                 "open_issues": 15,
                 "owner": "burakcan",
                 "repo": "react-snowstorm",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1916,7 +1916,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ElasticProgress",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3010,7 +3010,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1821,
+                "stars": 1820,
                 "topics": [
                   "javascript"
                 ]
@@ -3033,7 +3033,7 @@
                 "open_issues": 5,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1515,
+                "stars": 1519,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T04:14:14.379Z",
+    "last_updated": "2026-10-14T02:26:28.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3163,
+      "stars": 3164,
       "topics": [
         "awesome",
         "web-effect"
