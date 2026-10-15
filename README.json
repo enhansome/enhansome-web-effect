@@ -42,7 +42,7 @@
                 "open_issues": 28,
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1134,
+                "stars": 1135,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4074,
+                "stars": 4075,
                 "topics": [
                   "90s",
                   "canvas",
@@ -385,7 +385,7 @@
                 "open_issues": 18,
                 "owner": "akella",
                 "repo": "webgl-mouseover-effects",
-                "stars": 402,
+                "stars": 403,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -826,7 +826,7 @@
                 "open_issues": 0,
                 "owner": "rendro",
                 "repo": "vintageJS",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "canvas",
                   "image-processing",
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1781,
+                "stars": 1782,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3033,7 +3033,7 @@
                 "open_issues": 5,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1519,
+                "stars": 1522,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:26:28.274Z",
+    "last_updated": "2026-10-15T02:07:44.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3164,
+      "stars": 3165,
       "topics": [
         "awesome",
         "web-effect"
