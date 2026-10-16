@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4075,
+                "stars": 4077,
                 "topics": [
                   "90s",
                   "canvas",
@@ -1889,7 +1889,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1263,
+                "stars": 1264,
                 "topics": [
                   "animation",
                   "animejs",
@@ -2634,7 +2634,7 @@
                 "open_issues": 16,
                 "owner": "coderitual",
                 "repo": "bounty",
-                "stars": 822,
+                "stars": 823,
                 "topics": [
                   "animation",
                   "bounty",
@@ -3033,7 +3033,7 @@
                 "open_issues": 5,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1522,
+                "stars": 1524,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T02:07:44.071Z",
+    "last_updated": "2026-10-16T01:57:58.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
