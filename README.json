@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4077,
+                "stars": 4080,
                 "topics": [
                   "90s",
                   "canvas",
@@ -805,7 +805,7 @@
                 "open_issues": 7,
                 "owner": "ciar4n",
                 "repo": "imagehover.css",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -854,7 +854,7 @@
                 "open_issues": 28,
                 "owner": "mark-rolich",
                 "repo": "Magnifier.js",
-                "stars": 833,
+                "stars": 832,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -917,7 +917,7 @@
                 "open_issues": 21,
                 "owner": "orion3dgames",
                 "repo": "gridder",
-                "stars": 456,
+                "stars": 455,
                 "topics": [
                   "gallery",
                   "gridder",
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2668,
+                "stars": 2666,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -2171,7 +2171,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "PageLoadingEffects",
-                "stars": 641,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2670,7 +2670,7 @@
                 "open_issues": 8,
                 "owner": "lcdsantos",
                 "repo": "jquery-drawsvg",
-                "stars": 767,
+                "stars": 766,
                 "topics": [
                   "animation",
                   "jquery",
@@ -3101,7 +3101,7 @@
                 "open_issues": 0,
                 "owner": "gibbok",
                 "repo": "animatelo",
-                "stars": 495,
+                "stars": 494,
                 "topics": [
                   "animation",
                   "animations",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:57:58.980Z",
+    "last_updated": "2026-10-17T01:52:25.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",

@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,532 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,034 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,077 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,080 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 403 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -54,12 +54,12 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Image Effect
 
-* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,817 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
+* [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,816 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
 * [vintageJS](https://github.com/rendro/vintageJS) ⭐ 844 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Add a retro/vintage effect to images using the HTML5 canvas element
-* [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 833 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
+* [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 832 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
-* [gridder](https://github.com/oriongunning/gridder) ⭐ 456 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
+* [gridder](https://github.com/oriongunning/gridder) ⭐ 455 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
 * [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 358 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
 * [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 316 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
 * [HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) ⭐ 310 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-11 - Animated haze distortion effect for images and text, with WebGL
@@ -74,7 +74,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Input Effect
 
-* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,668 | 🐛 94 | 🌐 JavaScript | 📅 2025-04-29 - A simple yet powerful native javascript plugin for a cool typewriter effect.
+* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,666 | 🐛 94 | 🌐 JavaScript | 📅 2025-04-29 - A simple yet powerful native javascript plugin for a cool typewriter effect.
 * [TextInputEffects](https://github.com/codrops/TextInputEffects) ⭐ 953 | 🐛 3 | 🌐 CSS | 📅 2017-03-19 - Simple styles and effects for enhancing text input interactions.
 * [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 509 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
 * [t.js](https://github.com/mntn-dev/t.js) ⚠️ Archived - Lightweight $.Hypertext.Typewriter
@@ -128,7 +128,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Whirl](https://github.com/jh3y/whirl) ⭐ 1,836 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,344 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
-* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 641 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
+* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 640 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
 * [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
 * [ArtWorx-xLoader](https://github.com/AnasTawfeek/ArtWorx-xLoader) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2016-11-18 - Pure css cross-browser loading animations.
 * [css-page-loader](https://github.com/Viglino/css-page-loader) ⭐ 10 | 🐛 2 | 🌐 CSS | 📅 2022-10-07 - Lightweight CSS loading animations to use when page loads
@@ -157,7 +157,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,980 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
-* [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 767 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
+* [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 220 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 * [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
@@ -181,7 +181,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,524 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-12 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 584 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 527 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
-* [animatelo](https://github.com/gibbok/animatelo) ⭐ 495 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
+* [animatelo](https://github.com/gibbok/animatelo) ⭐ 494 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
 * [svg-Circus](https://github.com/alexk111/SVG-Circus) ⭐ 331 | 🐛 2 | 🌐 JavaScript | 📅 2014-11-06 - Create cool animated SVG spinners, loaders and other looped animations in seconds.
 * [map-effects-100](https://github.com/muxlab/map-effects-100) ⭐ 202 | 🐛 4 | 🌐 JavaScript | 📅 2016-08-19 - Cool tips to design UI/UX on Leaflet maps.
 * [glitch](https://github.com/sjhewitt/glitch.js) ⭐ 194 | 🐛 4 | 🌐 JavaScript | 📅 2016-11-13 - A glitched effect for DOM elements.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
