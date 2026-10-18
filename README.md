@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,034 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,522 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -13,7 +13,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Background Decoration
 
 * [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,482 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
-* [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,135 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
+* [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,136 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 672 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
 * [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 540 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
 * [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) ⭐ 397 | 🐛 2 | 🌐 HTML | 📅 2017-05-23 - A decorative website background effect where SVG shapes morph and transform on scroll..
@@ -44,7 +44,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [photon](https://github.com/thomasxiii/photon) ⭐ 1,445 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
 * [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,012 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
 * [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 473 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
-* [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 368 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
+* [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 369 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
 * [css-space-shooter](https://github.com/michaelbromley/css-space-shooter) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-08 - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
 * [quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) ⭐ 68 | 🐛 0 | 🌐 CSS | 📅 2021-05-30 - The Quintessential Responsive 3D CSS Cube
 * [cube.less](https://github.com/sparanoid/cube.less) ⭐ 55 | 🐛 1 | 🌐 Less | 📅 2026-10-12 - 3D (animated) cube using only CSS (Less), originally used by LeanCloud
@@ -158,7 +158,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,980 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
-* [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 220 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
+* [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 * [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
 * [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) ⭐ 143 | 🐛 1 | 🌐 HTML | 📅 2016-12-19 - An experimental SVG letter animation inspired by the Dribbble shot "Shading Letters in Illustrator" by Jake Bartlett's. Powered by Julian Garnier's anime.js.
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,820 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,524 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-12 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,525 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 584 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 527 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 494 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
