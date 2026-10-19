@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4080,
+                "stars": 4079,
                 "topics": [
                   "90s",
                   "canvas",
@@ -1185,7 +1185,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2666,
+                "stars": 2665,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1253,7 +1253,7 @@
                 "open_issues": 0,
                 "owner": "mntn-dev",
                 "repo": "t.js",
-                "stars": 315,
+                "stars": 314,
                 "topics": [
                   "beep",
                   "del",
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1782,
+                "stars": 1783,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3030,10 +3030,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T16:58:29Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3054,7 +3054,7 @@
                 "open_issues": 2,
                 "owner": "loov",
                 "repo": "jsfx",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "game-development",
                   "javascript",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:51:09.571Z",
+    "last_updated": "2026-10-19T02:08:05.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
