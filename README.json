@@ -231,7 +231,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "ImageGridMotionEffect",
-                "stars": 154,
+                "stars": 152,
                 "topics": [
                   "css",
                   "gsap",
@@ -1985,7 +1985,7 @@
                 "open_issues": 38,
                 "owner": "dreambo8563",
                 "repo": "vue-particle-effect-buttons",
-                "stars": 260,
+                "stars": 259,
                 "topics": [
                   "animations",
                   "anime",
@@ -2192,7 +2192,7 @@
                 "open_issues": 0,
                 "owner": "ZachSaucier",
                 "repo": "Asset-Loading-Effects",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2603,7 +2603,7 @@
                 "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1980,
+                "stars": 1979,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1526,
+                "stars": 1528,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T02:08:05.802Z",
+    "last_updated": "2026-10-20T02:23:47.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",

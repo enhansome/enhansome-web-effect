@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,003 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,510 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -20,7 +20,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [sparticles](https://github.com/simeydotme/sparticles) ⭐ 287 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-25 - Vanilla particles which can be used in a background or in a container, very fast and lightweight.
 * [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) ⭐ 232 | 🐛 3 | 🌐 Vue | 📅 2021-03-20 - A vue.js particles animation background component. Use it to make your website look cool.
 * [jquery-bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 191 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
-* [ImageGridMotionEffect](https://github.com/codrops/ImageGridMotionEffect) ⭐ 154 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-23 - A motion hover effect for a background grid of images..
+* [ImageGridMotionEffect](https://github.com/codrops/ImageGridMotionEffect) ⭐ 152 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-23 - A motion hover effect for a background grid of images..
 * [BackgroundScaleHoverEffect](https://github.com/codrops/BackgroundScaleHoverEffect) ⭐ 124 | 🐛 0 | 🌐 HTML | 📅 2020-03-11 - Recreation of the background scale hover effect seen on the DDD Hotel website using CSS clip paths.
 * [jquery-warpdrive-plugin](https://github.com/NiklasKnaack/jquery-warpdrive-plugin) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2022-06-01 - Warp drive is a lightweight jQuery plugin that helps you create a cool, interactive, configurable, HTML5 canvas based warp drive/starfield effect.
 * [fixed-background-effect](https://github.com/CodyHouse/fixed-background-effect) ⭐ 53 | 🐛 0 | 🌐 CSS | 📅 2015-03-25 - A simple template that takes advantage of the background-attachment CSS property to create a fixed background effect.
@@ -118,7 +118,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 876 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
 * [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 485 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 346 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
-* [vue-particle-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) ⭐ 260 | 🐛 38 | 🌐 HTML | 📅 2024-10-22 - A bursting particles effects buttons component
+* [vue-particle-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) ⭐ 259 | 🐛 38 | 🌐 HTML | 📅 2024-10-22 - A bursting particles effects buttons component
 * [react-parallax-button](https://github.com/venits/react-parallax-button) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-08 - Bring your react buttons to next level with parallax effect.
 * [nativescript-shine-button](https://github.com/hamdiwanis/nativescript-shine-button) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2019-02-15 - NativeScript plugin that add shine effect to your button.
 * [RippleButton](https://github.com/mig82/RippleButton) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-11-07 - A Kony Visualizer reusable component of a button with a Material Theme ripple effect.
@@ -129,7 +129,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,344 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 640 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
-* [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
+* [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 105 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
 * [ArtWorx-xLoader](https://github.com/AnasTawfeek/ArtWorx-xLoader) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2016-11-18 - Pure css cross-browser loading animations.
 * [css-page-loader](https://github.com/Viglino/css-page-loader) ⭐ 10 | 🐛 2 | 🌐 CSS | 📅 2022-10-07 - Lightweight CSS loading animations to use when page loads
 * [LoadEffect](https://github.com/Auklets/LoadEffect) ⭐ 3 | 🐛 34 | 🌐 JavaScript | 📅 2016-07-22 - Distributed Load Testing in Javascript-like Scripting Language.
@@ -155,7 +155,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### SVG Animations
 
-* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,980 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
+* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,979 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,820 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,526 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,528 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 585 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 527 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 494 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
