@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "lindelof",
                 "repo": "particles-bg",
-                "stars": 672,
+                "stars": 673,
                 "topics": [
                   "backgrounds",
                   "login-template",
@@ -138,7 +138,7 @@
                 "open_issues": 11,
                 "owner": "simeydotme",
                 "repo": "sparticles",
-                "stars": 287,
+                "stars": 288,
                 "topics": [
                   "animation",
                   "canvas",
@@ -453,7 +453,7 @@
                 "open_issues": 1,
                 "owner": "lindelof",
                 "repo": "react-mouse-particles",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "mouse-effect",
                   "react-cursor",
@@ -2697,7 +2697,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "OrganicShapeAnimations",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:23:47.033Z",
+    "last_updated": "2026-10-21T02:17:27.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3165,
+      "stars": 3166,
       "topics": [
         "awesome",
         "web-effect"
