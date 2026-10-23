@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6482,
+                "stars": 6481,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "lindelof",
                 "repo": "particles-bg",
-                "stars": 673,
+                "stars": 674,
                 "topics": [
                   "backgrounds",
                   "login-template",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4078,
+                "stars": 4077,
                 "topics": [
                   "90s",
                   "canvas",
@@ -560,7 +560,7 @@
                 "open_issues": 10,
                 "owner": "soulwire",
                 "repo": "Makisu",
-                "stars": 1516,
+                "stars": 1517,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -602,7 +602,7 @@
                 "open_issues": 6,
                 "owner": "desandro",
                 "repo": "3dtransforms",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1181,8 +1181,8 @@
                 "id": 82093328,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T13:13:44Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-22T19:39:13Z",
+                "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
                 "stars": 2665,
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1783,
+                "stars": 1785,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1528,
+                "stars": 1530,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T02:12:08.603Z",
+    "last_updated": "2026-10-23T02:17:56.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
