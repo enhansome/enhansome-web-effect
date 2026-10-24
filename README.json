@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4077,
+                "stars": 4078,
                 "topics": [
                   "90s",
                   "canvas",
@@ -1185,7 +1185,7 @@
                 "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2665,
+                "stars": 2664,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -2631,7 +2631,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-01-24T05:17:29Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "coderitual",
                 "repo": "bounty",
                 "stars": 823,
@@ -3281,7 +3281,7 @@
                 "open_issues": 3,
                 "owner": "mykle1",
                 "repo": "MMM-EyeCandy",
-                "stars": 57,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T02:17:56.661Z",
+    "last_updated": "2026-10-24T02:15:59.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",

@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,194 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,697 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,077 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,078 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 403 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -74,7 +74,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Input Effect
 
-* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,665 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 - A simple yet powerful native javascript plugin for a cool typewriter effect.
+* [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,664 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 - A simple yet powerful native javascript plugin for a cool typewriter effect.
 * [TextInputEffects](https://github.com/codrops/TextInputEffects) ⭐ 953 | 🐛 3 | 🌐 CSS | 📅 2017-03-19 - Simple styles and effects for enhancing text input interactions.
 * [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 509 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
 * [t.js](https://github.com/mntn-dev/t.js) ⚠️ Archived - Lightweight $.Hypertext.Typewriter
@@ -156,7 +156,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### SVG Animations
 
 * [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,979 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
-* [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
+* [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 17 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 220 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
@@ -189,7 +189,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [pickout](https://github.com/ktquez/pickout) ⭐ 90 | 🐛 6 | 🌐 JavaScript | 📅 2017-08-11 - Cool and powerful effect to select fields. Javascript vanilla and \~2kb gzipped
 * [starry.night](https://github.com/atesgoral/put.io.starry.night) ⭐ 83 | 🐛 0 | 🌐 JavaScript | 📅 2017-12-04 - The Starry Night animation in put.io's hero banner
 * [frosted-glass](https://github.com/adriancarriger/frosted-glass) ⚠️ Archived - Add a live frosted glass blur effect over any type of web content, including text.
-* [EyeCandy](https://github.com/mykle1/MMM-EyeCandy) ⭐ 57 | 🐛 3 | 🌐 JavaScript | 📅 2024-07-28 - Animated images that are superficially attractive and entertaining but intellectually undemanding.
+* [EyeCandy](https://github.com/mykle1/MMM-EyeCandy) ⭐ 56 | 🐛 3 | 🌐 JavaScript | 📅 2024-07-28 - Animated images that are superficially attractive and entertaining but intellectually undemanding.
 * [dissolve-generator](https://github.com/transitive-bullshit/dissolve-generator) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Cool 2D dissolve effect generator
 * [lottie-sample](https://github.com/codeaholicguy/lottie-sample) ⭐ 12 | 🐛 0 | 🌐 CSS | 📅 2018-05-08 - Demo after effect animation on web using Lottie
 * [MobileComponent](https://github.com/zhangmengxue/MobileComponent) ⭐ 7 | 🐛 1 | 🌐 CSS | 📅 2015-05-17 - dynamic effect component on mobile web
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
