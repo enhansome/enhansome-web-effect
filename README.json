@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4077,
+                "stars": 4080,
                 "topics": [
                   "90s",
                   "canvas",
@@ -355,7 +355,7 @@
                 "open_issues": 12,
                 "owner": "jonathandion",
                 "repo": "react-tilt",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "3d",
                   "animation",
@@ -623,7 +623,7 @@
                 "open_issues": 5,
                 "owner": "juliangarnier",
                 "repo": "3D-CSS-Solar-System",
-                "stars": 473,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -984,7 +984,7 @@
                 "open_issues": 5,
                 "owner": "lbebber",
                 "repo": "HeatDistortionEffect",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1309,7 +1309,7 @@
                 "open_issues": 1,
                 "owner": "ics-ikeda",
                 "repo": "shuffle-text",
-                "stars": 136,
+                "stars": 135,
                 "topics": [
                   "effects",
                   "html5",
@@ -1916,7 +1916,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ElasticProgress",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2697,7 +2697,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "OrganicShapeAnimations",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T02:03:42.875Z",
+    "last_updated": "2026-10-27T02:41:00.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
