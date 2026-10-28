@@ -210,7 +210,7 @@
                 "open_issues": 17,
                 "owner": "rewish",
                 "repo": "jquery-bgswitcher",
-                "stars": 191,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -581,7 +581,7 @@
                 "open_issues": 9,
                 "owner": "thomasxiii",
                 "repo": "photon",
-                "stars": 1445,
+                "stars": 1446,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -942,7 +942,7 @@
                 "open_issues": 28,
                 "owner": "codrops",
                 "repo": "ThumbnailGridExpandingPreview",
-                "stars": 358,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1052,7 +1052,7 @@
                 "open_issues": 17,
                 "owner": "rewish",
                 "repo": "jquery-bgswitcher",
-                "stars": 191,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1185,7 +1185,7 @@
                 "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2664,
+                "stars": 2663,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1785,
+                "stars": 1786,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2082,7 +2082,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1836,
+                "stars": 1835,
                 "topics": [
                   "animation",
                   "css",
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1531,
+                "stars": 1533,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:41:00.865Z",
+    "last_updated": "2026-10-28T02:49:56.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 3,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3168,
+      "stars": 3167,
       "topics": [
         "awesome",
         "web-effect"
