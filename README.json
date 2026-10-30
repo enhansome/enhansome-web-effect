@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4079,
+                "stars": 4078,
                 "topics": [
                   "90s",
                   "canvas",
@@ -355,7 +355,7 @@
                 "open_issues": 12,
                 "owner": "jonathandion",
                 "repo": "react-tilt",
-                "stars": 431,
+                "stars": 430,
                 "topics": [
                   "3d",
                   "animation",
@@ -1185,7 +1185,7 @@
                 "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2663,
+                "stars": 2662,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1211,7 +1211,7 @@
                 "open_issues": 3,
                 "owner": "codrops",
                 "repo": "TextInputEffects",
-                "stars": 953,
+                "stars": 952,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1937,7 +1937,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "MagneticButtons",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "button-animation"
                 ]
@@ -1960,7 +1960,7 @@
                 "open_issues": 6,
                 "owner": "mladenplavsic",
                 "repo": "css-ripple-effect",
-                "stars": 346,
+                "stars": 345,
                 "topics": [
                   "no-javascript",
                   "pure-css",
@@ -3010,7 +3010,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1820,
+                "stars": 1819,
                 "topics": [
                   "javascript"
                 ]
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1535,
+                "stars": 1539,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3101,7 +3101,7 @@
                 "open_issues": 0,
                 "owner": "gibbok",
                 "repo": "animatelo",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "animation",
                   "animations",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T03:12:14.757Z",
+    "last_updated": "2026-10-30T03:15:36.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3427,7 +3427,7 @@
       "language": null,
       "license": null,
       "last_commit": "2021-04-12T03:19:08Z",
-      "open_issues": 3,
+      "open_issues": 2,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
       "stars": 3167,
