@@ -42,7 +42,7 @@
                 "open_issues": 28,
                 "owner": "sirxemic",
                 "repo": "jquery.ripples",
-                "stars": 1135,
+                "stars": 1136,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -96,7 +96,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "SegmentEffect",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -259,7 +259,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "BackgroundScaleHoverEffect",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -432,7 +432,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "ImageTrailEffects",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -942,7 +942,7 @@
                 "open_issues": 28,
                 "owner": "codrops",
                 "repo": "ThumbnailGridExpandingPreview",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1073,7 +1073,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "FullImageReveal",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1094,7 +1094,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ImageDraggingEffects",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2123,7 +2123,7 @@
                 "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1344,
+                "stars": 1343,
                 "topics": [
                   "less",
                   "loading-animations",
@@ -2744,7 +2744,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "DistortedLinkEffects",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "hover-effects",
                   "links",
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1539,
+                "stars": 1543,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T03:15:36.431Z",
+    "last_updated": "2026-10-31T02:59:17.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
