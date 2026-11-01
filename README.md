@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,572 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,075 | 🐛 105 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -17,19 +17,19 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 674 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
 * [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 541 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
 * [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) ⭐ 397 | 🐛 2 | 🌐 HTML | 📅 2017-05-23 - A decorative website background effect where SVG shapes morph and transform on scroll..
-* [sparticles](https://github.com/simeydotme/sparticles) ⭐ 289 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-25 - Vanilla particles which can be used in a background or in a container, very fast and lightweight.
+* [sparticles](https://github.com/simeydotme/sparticles) ⭐ 290 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-25 - Vanilla particles which can be used in a background or in a container, very fast and lightweight.
 * [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) ⭐ 232 | 🐛 3 | 🌐 Vue | 📅 2021-03-20 - A vue.js particles animation background component. Use it to make your website look cool.
 * [jquery-bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 190 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
-* [ImageGridMotionEffect](https://github.com/codrops/ImageGridMotionEffect) ⭐ 152 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-23 - A motion hover effect for a background grid of images..
+* [ImageGridMotionEffect](https://github.com/codrops/ImageGridMotionEffect) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-23 - A motion hover effect for a background grid of images..
 * [BackgroundScaleHoverEffect](https://github.com/codrops/BackgroundScaleHoverEffect) ⭐ 125 | 🐛 0 | 🌐 HTML | 📅 2020-03-11 - Recreation of the background scale hover effect seen on the DDD Hotel website using CSS clip paths.
 * [jquery-warpdrive-plugin](https://github.com/NiklasKnaack/jquery-warpdrive-plugin) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2022-06-01 - Warp drive is a lightweight jQuery plugin that helps you create a cool, interactive, configurable, HTML5 canvas based warp drive/starfield effect.
 * [fixed-background-effect](https://github.com/CodyHouse/fixed-background-effect) ⭐ 53 | 🐛 0 | 🌐 CSS | 📅 2015-03-25 - A simple template that takes advantage of the background-attachment CSS property to create a fixed background effect.
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,078 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,079 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
-* [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 403 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
+* [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 404 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 332 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
 * [ImageTrailEffects](https://github.com/codrops/ImageTrailEffects) ⭐ 229 | 🐛 1 | 🌐 JavaScript | 📅 2019-08-07 - A set of effects for mouse-following image trails that show a random series of images.
 * [mouse-particles](https://github.com/lindelof/react-mouse-particles) ⭐ 117 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-01 - AboutA mouse particle effect react component
@@ -88,7 +88,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Transition Effect
 
-* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,012 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
+* [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,011 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
 * [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2015-04-10 - Demonstration of different animation effects with AngularJS ngView directive.
 * [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 138 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
 * [transitions](https://github.com/2youyou2/transitions) ⭐ 123 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-25 - Transition effect for Cocos Creator
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,819 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,543 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,555 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 585 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 527 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 493 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
