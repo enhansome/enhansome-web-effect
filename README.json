@@ -644,7 +644,7 @@
                 "open_issues": 1,
                 "owner": "unconed",
                 "repo": "CSS3D.js",
-                "stars": 369,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -822,7 +822,7 @@
                 "id": 1450644,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-14T13:57:48Z",
+                "last_commit": "2026-11-07T02:50:12Z",
                 "open_issues": 0,
                 "owner": "rendro",
                 "repo": "vintageJS",
@@ -1185,7 +1185,7 @@
                 "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2662,
+                "stars": 2663,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1674,7 +1674,7 @@
                 "open_issues": 16,
                 "owner": "scottschiller",
                 "repo": "Snowstorm",
-                "stars": 556,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2082,7 +2082,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1836,
+                "stars": 1837,
                 "topics": [
                   "animation",
                   "css",
@@ -3033,7 +3033,7 @@
                 "open_issues": 6,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1588,
+                "stars": 1594,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:56:06.448Z",
+    "last_updated": "2026-11-07T03:30:40.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 2,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3169,
+      "stars": 3168,
       "topics": [
         "awesome",
         "web-effect"
