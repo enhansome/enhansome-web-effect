@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4086,
+                "stars": 4088,
                 "topics": [
                   "90s",
                   "canvas",
@@ -875,7 +875,7 @@
                 "open_issues": 18,
                 "owner": "gre",
                 "repo": "diaporama",
-                "stars": 781,
+                "stars": 782,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2123,7 +2123,7 @@
                 "open_issues": 5,
                 "owner": "nzbin",
                 "repo": "three-dots",
-                "stars": 1341,
+                "stars": 1342,
                 "topics": [
                   "less",
                   "loading-animations",
@@ -3030,10 +3030,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T16:58:29Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1596,
+                "stars": 1599,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:59:29.641Z",
+    "last_updated": "2026-11-09T03:22:07.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
