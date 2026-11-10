@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4088,
+                "stars": 4089,
                 "topics": [
                   "90s",
                   "canvas",
@@ -3054,7 +3054,7 @@
                 "open_issues": 2,
                 "owner": "loov",
                 "repo": "jsfx",
-                "stars": 585,
+                "stars": 586,
                 "topics": [
                   "game-development",
                   "javascript",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T03:22:07.450Z",
+    "last_updated": "2026-11-10T04:58:20.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
