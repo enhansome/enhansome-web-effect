@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "briangonzalez",
                 "repo": "jquery.adaptive-backgrounds.js",
-                "stars": 6480,
+                "stars": 6479,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -432,7 +432,7 @@
                 "open_issues": 1,
                 "owner": "codrops",
                 "repo": "ImageTrailEffects",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1232,7 +1232,7 @@
                 "open_issues": 4,
                 "owner": "ChrisCavs",
                 "repo": "t-writer.js",
-                "stars": 509,
+                "stars": 508,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1653,7 +1653,7 @@
                 "open_issues": 9,
                 "owner": "codrops",
                 "repo": "RainEffect",
-                "stars": 1789,
+                "stars": 1790,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -2603,7 +2603,7 @@
                 "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1981,
+                "stars": 1980,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -3033,7 +3033,7 @@
                 "open_issues": 7,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1603,
+                "stars": 1607,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T03:29:58.680Z",
+    "last_updated": "2026-11-12T04:39:48.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
