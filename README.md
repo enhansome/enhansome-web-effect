@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,459 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,028 | 🐛 103 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,090 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,092 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 431 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 404 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 331 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -62,7 +62,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [gridder](https://github.com/oriongunning/gridder) ⭐ 455 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
 * [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 357 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
 * [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 316 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
-* [HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) ⭐ 311 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-11 - Animated haze distortion effect for images and text, with WebGL
+* [HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) ⭐ 312 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-11 - Animated haze distortion effect for images and text, with WebGL
 * [StickyImageEffect](https://github.com/Anemolo/StickyImageEffect) ⭐ 233 | 🐛 4 | 🌐 JavaScript | 📅 2019-04-17 - A sticky image effect for a slideshow inspired by ultanoir's website.
 * [gl-react-image-effects](https://github.com/gre/gl-react-image-effects) ⭐ 221 | 🐛 3 | 🌐 JavaScript | 📅 2016-02-19 - universal image app that uses different gl-react components
 * [bgswitcher](https://github.com/rewish/jquery-bgswitcher) ⭐ 190 | 🐛 17 | 🌐 JavaScript | 📅 2019-10-31 - Switch the background-image with using effect.
@@ -90,7 +90,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) ⭐ 1,012 | 🐛 20 | 🌐 JavaScript | 📅 2013-07-02 - A set of experimental modal window appearance effects with CSS transitions and animations.
 * [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2015-04-10 - Demonstration of different animation effects with AngularJS ngView directive.
-* [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 138 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
+* [PageRevealEffects](https://github.com/codrops/PageRevealEffects) ⭐ 139 | 🐛 0 | 🌐 CSS | 📅 2016-06-01 - Some ideas for modern multi-layer page transitions using CSS Animations.
 * [transitions](https://github.com/2youyou2/transitions) ⭐ 123 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-25 - Transition effect for Cocos Creator
 * [GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) ⭐ 115 | 🐛 0 | 🌐 CSS | 📅 2018-03-10 - A slideshow that uses a CSS glitch effect for slide transitions.
 * [WobblySlideshowEffect](https://github.com/codrops/WobblySlideshowEffect) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2014-10-24 - The slides in this slideshow wobble as they move. The effect is based on Sergey Valiukh's Dribbble shot and was made using Snap.svg and morphing SVG paths.
@@ -128,7 +128,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [Whirl](https://github.com/jh3y/whirl) ⭐ 1,837 | 🐛 34 | 🌐 SCSS | 📅 2023-01-03 - CSS loading animations with minimal effort!
 * [three-dots](https://github.com/nzbin/three-dots) ⭐ 1,342 | 🐛 5 | 🌐 SCSS | 📅 2023-10-23 - 🔮 CSS loading animations made by single element.
 * [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) ⚠️ Archived - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
-* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 640 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
+* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) ⭐ 639 | 🐛 0 | 🌐 CSS | 📅 2014-04-23 - Modern ways of revealing new content using SVG animations.
 * [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) ⭐ 105 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-22 - Loading effects for assets including some built in animated reveals
 * [ArtWorx-xLoader](https://github.com/AnasTawfeek/ArtWorx-xLoader) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2016-11-18 - Pure css cross-browser loading animations.
 * [css-page-loader](https://github.com/Viglino/css-page-loader) ⭐ 10 | 🐛 2 | 🌐 CSS | 📅 2022-10-07 - Lightweight CSS loading animations to use when page loads
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,818 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,607 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,608 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 587 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 527 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 494 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
