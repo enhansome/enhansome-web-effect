@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4097,
+                "stars": 4098,
                 "topics": [
                   "90s",
                   "canvas",
@@ -1695,7 +1695,7 @@
                 "open_issues": 2,
                 "owner": "nojvek",
                 "repo": "matrix-rain",
-                "stars": 444,
+                "stars": 445,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3033,7 +3033,7 @@
                 "open_issues": 7,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1614,
+                "stars": 1615,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:55:58.731Z",
+    "last_updated": "2026-11-19T04:49:22.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 2,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3171,
+      "stars": 3170,
       "topics": [
         "awesome",
         "web-effect"
