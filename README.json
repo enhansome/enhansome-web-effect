@@ -355,7 +355,7 @@
                 "open_issues": 12,
                 "owner": "jonathandion",
                 "repo": "react-tilt",
-                "stars": 431,
+                "stars": 430,
                 "topics": [
                   "3d",
                   "animation",
@@ -623,7 +623,7 @@
                 "open_issues": 5,
                 "owner": "juliangarnier",
                 "repo": "3D-CSS-Solar-System",
-                "stars": 475,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -826,7 +826,7 @@
                 "open_issues": 0,
                 "owner": "rendro",
                 "repo": "vintageJS",
-                "stars": 845,
+                "stars": 844,
                 "topics": [
                   "canvas",
                   "image-processing",
@@ -854,7 +854,7 @@
                 "open_issues": 28,
                 "owner": "mark-rolich",
                 "repo": "Magnifier.js",
-                "stars": 832,
+                "stars": 831,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1253,7 +1253,7 @@
                 "open_issues": 0,
                 "owner": "mntn-dev",
                 "repo": "t.js",
-                "stars": 315,
+                "stars": 311,
                 "topics": [
                   "beep",
                   "del",
@@ -1674,7 +1674,7 @@
                 "open_issues": 16,
                 "owner": "scottschiller",
                 "repo": "Snowstorm",
-                "stars": 556,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1960,7 +1960,7 @@
                 "open_issues": 6,
                 "owner": "mladenplavsic",
                 "repo": "css-ripple-effect",
-                "stars": 346,
+                "stars": 345,
                 "topics": [
                   "no-javascript",
                   "pure-css",
@@ -2082,7 +2082,7 @@
                 "open_issues": 34,
                 "owner": "jh3y",
                 "repo": "whirl",
-                "stars": 1837,
+                "stars": 1836,
                 "topics": [
                   "animation",
                   "css",
@@ -2603,7 +2603,7 @@
                 "open_issues": 16,
                 "owner": "merri-ment",
                 "repo": "lazy-line-painter",
-                "stars": 1980,
+                "stars": 1977,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -2634,7 +2634,7 @@
                 "open_issues": 17,
                 "owner": "coderitual",
                 "repo": "bounty",
-                "stars": 824,
+                "stars": 823,
                 "topics": [
                   "animation",
                   "bounty",
@@ -2697,7 +2697,7 @@
                 "open_issues": 0,
                 "owner": "codrops",
                 "repo": "OrganicShapeAnimations",
-                "stars": 221,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3010,7 +3010,7 @@
                 "open_issues": 7,
                 "owner": "Ramotion",
                 "repo": "aquarelle",
-                "stars": 1818,
+                "stars": 1817,
                 "topics": [
                   "javascript"
                 ]
@@ -3054,7 +3054,7 @@
                 "open_issues": 2,
                 "owner": "loov",
                 "repo": "jsfx",
-                "stars": 587,
+                "stars": 586,
                 "topics": [
                   "game-development",
                   "javascript",
@@ -3101,7 +3101,7 @@
                 "open_issues": 0,
                 "owner": "gibbok",
                 "repo": "animatelo",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "animation",
                   "animations",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:49:22.732Z",
+    "last_updated": "2026-11-20T04:39:50.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 2,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3170,
+      "stars": 3169,
       "topics": [
         "awesome",
         "web-effect"
