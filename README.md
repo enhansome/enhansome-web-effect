@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,590 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,105 | 🐛 103 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -12,10 +12,10 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Background Decoration
 
-* [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,476 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
+* [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) ⭐ 6,475 | 🐛 7 | 🌐 JavaScript | 📅 2017-11-25 - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
 * [jquery.ripples](https://github.com/sirxemic/jquery.ripples) ⭐ 1,137 | 🐛 28 | 🌐 JavaScript | 📅 2021-10-05 - Add a water ripple effect to your background using WebGL.
 * [particles-bg](https://github.com/lindelof/particles-bg) ⭐ 673 | 🐛 6 | 🌐 JavaScript | 📅 2021-04-02 - React component for particles backgrounds
-* [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 541 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
+* [SegmentEffect](https://github.com/codrops/SegmentEffect) ⭐ 540 | 🐛 2 | 🌐 HTML | 📅 2017-04-06 - Background image segment effect as seen on \[Filippo Bello's Portfolio].
 * [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) ⭐ 397 | 🐛 2 | 🌐 HTML | 📅 2017-05-23 - A decorative website background effect where SVG shapes morph and transform on scroll..
 * [sparticles](https://github.com/simeydotme/sparticles) ⭐ 290 | 🐛 11 | 🌐 JavaScript | 📅 2026-04-25 - Vanilla particles which can be used in a background or in a container, very fast and lightweight.
 * [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) ⭐ 232 | 🐛 3 | 🌐 Vue | 📅 2021-03-20 - A vue.js particles animation background component. Use it to make your website look cool.
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,098 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,099 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 404 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 331 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -55,7 +55,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Image Effect
 
 * [imagehover](https://github.com/ciar4n/imagehover.css) ⭐ 1,816 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 - Pure CSS Image Hover Effect Library
-* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 844 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Add a retro/vintage effect to images using the HTML5 canvas element
+* [vintageJS](https://github.com/rendro/vintageJS) ⭐ 845 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Add a retro/vintage effect to images using the HTML5 canvas element
 * [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 831 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
 * [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
@@ -76,7 +76,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [typewriterjs](https://github.com/tameemsafi/typewriterjs) ⭐ 2,663 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 - A simple yet powerful native javascript plugin for a cool typewriter effect.
 * [TextInputEffects](https://github.com/codrops/TextInputEffects) ⭐ 952 | 🐛 3 | 🌐 CSS | 📅 2017-03-19 - Simple styles and effects for enhancing text input interactions.
-* [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 508 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
+* [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 507 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
 * [t.js](https://github.com/mntn-dev/t.js) ⚠️ Archived - Lightweight $.Hypertext.Typewriter
 * [malarkey](https://github.com/yuanqing/malarkey) ⭐ 237 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-30 - Simulate a typewriter effect in vanilla JavaScript.
 * [shuffle-text](https://github.com/ics-ikeda/shuffle-text) ⭐ 135 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-09 - "shuffle-text" is JavaScript text effect library such as cool legacy of Flash.
@@ -158,7 +158,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,977 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 17 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
-* [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 220 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
+* [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
 * [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) ⭐ 178 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 * [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) ⭐ 144 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-13 - Some ideas for decorative link distortion effects using SVG filters
 * [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) ⭐ 143 | 🐛 1 | 🌐 HTML | 📅 2016-12-19 - An experimental SVG letter animation inspired by the Dribbble shot "Shading Letters in Illustrator" by Jake Bartlett's. Powered by Julian Garnier's anime.js.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
