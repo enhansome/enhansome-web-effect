@@ -1889,7 +1889,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ParticleEffectsButtons",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": [
                   "animation",
                   "animejs",
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:34:02.037Z",
+    "last_updated": "2026-11-22T03:48:47.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 2,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3169,
+      "stars": 3168,
       "topics": [
         "awesome",
         "web-effect"
