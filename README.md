@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,589 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,186 | 🐛 103 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -79,7 +79,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [t-writer.js](https://github.com/ChrisCavs/t-writer.js) ⭐ 507 | 🐛 4 | 🌐 JavaScript | 📅 2021-11-21 - Native typewriter effect, without compromises or dependencies.
 * [t.js](https://github.com/mntn-dev/t.js) ⚠️ Archived - Lightweight $.Hypertext.Typewriter
 * [malarkey](https://github.com/yuanqing/malarkey) ⭐ 237 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-30 - Simulate a typewriter effect in vanilla JavaScript.
-* [shuffle-text](https://github.com/ics-ikeda/shuffle-text) ⭐ 135 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-09 - "shuffle-text" is JavaScript text effect library such as cool legacy of Flash.
+* [shuffle-text](https://github.com/ics-ikeda/shuffle-text) ⭐ 135 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-09 - "shuffle-text" is JavaScript text effect library such as cool legacy of Flash.
 * [power-mode-input](https://github.com/lindelof/power-mode-input) ⭐ 93 | 🐛 1 | 🌐 JavaScript | 📅 2021-03-19 - PowerModeInput can make your text input box more compelling
 * [react-typewriter](https://github.com/ianbjorndilling/react-typewriter) ⭐ 87 | 🐛 18 | 🌐 JavaScript | 📅 2018-10-11 - A React component for creating typing animations.
 * [Phaser-typewriter](https://github.com/netgfx/Phaser-typewriter) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-03 - A phaser helper for the typewriter effect
@@ -101,7 +101,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Rain & Snow
 
-* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,794 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
+* [RainEffect](https://github.com/codrops/RainEffect) ⭐ 1,795 | 🐛 9 | 🌐 JavaScript | 📅 2022-09-12 - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 * [Snowstorm](https://github.com/scottschiller/Snowstorm) ⭐ 555 | 🐛 16 | 🌐 JavaScript | 📅 2022-01-05 - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
 * [matrix-rain](https://github.com/nojvek/matrix-rain) ⭐ 445 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-21 - The famous Matrix rain effect of falling green characters in a terminal
 * [smoke.js](https://github.com/bijection/smoke.js) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2020-07-11 - Small but good javascript smoke effect
@@ -155,7 +155,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### SVG Animations
 
-* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,977 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
+* [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) ⭐ 1,976 | 🐛 16 | 🌐 JavaScript | 📅 2023-12-12 - Lazy Line Painter - A Modern JS library for SVG path animation
 * [bounty](https://github.com/coderitual/bounty) ⭐ 823 | 🐛 17 | 🌐 JavaScript | 📅 2026-01-24 - Javascript and SVG odometer effect library with motion blur
 * [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2016-10-22 - Lightweight, simple to use jQuery plugin to animate SVG paths
 * [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) ⭐ 219 | 🐛 0 | 🌐 HTML | 📅 2017-06-28 - Some shape morphing hover effects on images using SVG clipPath.
@@ -178,7 +178,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ### Other Effect
 
 * [aquarelle](https://github.com/Ramotion/aquarelle) ⭐ 1,817 | 🐛 7 | 🌐 JavaScript | 📅 2019-10-20 - Aquarelle is a watercolor effect component.
-* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,615 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+* [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) ⭐ 1,618 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-17 - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 * [jsfx](https://github.com/loov/jsfx) ⭐ 586 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-13 - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 * [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) ⭐ 526 | 🐛 2 | 🌐 JavaScript | 📅 2019-08-28 - Simulates a bad TV via horizontal distortion and vertical roll.
 * [animatelo](https://github.com/gibbok/animatelo) ⭐ 493 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
