@@ -1,6 +1,6 @@
 # awesome-web-effect with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,855 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,443 | 🐛 103 | 📅 2026-09-02
 
 ## 🚀 A series of exquisite and compact web page cool effects
 
@@ -27,7 +27,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Mouse Effect
 
-* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,100 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+* [cursor-effectss](https://github.com/tholman/cursor-effects) ⭐ 4,103 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-26 - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 * [react-tilt](https://github.com/jonathandion/react-tilt) ⭐ 430 | 🐛 12 | 🌐 TypeScript | 📅 2023-10-15 - Parallax tilt hover effect for React JS - tilt.js
 * [webgl-mouseover-effects](https://github.com/akella/webgl-mouseover-effects) ⭐ 404 | 🐛 18 | 🌐 JavaScript | 📅 2023-05-18 - Demos for the tutorial on how to achieve an interactive mouseover/hover effect
 * [hover3d](https://github.com/ariona/hover3d) ⭐ 331 | 🐛 2 | 🌐 CSS | 📅 2018-01-02 - Simple jQuery plugin for 3d Hover effect
@@ -42,7 +42,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 * [Makisu](https://github.com/soulwire/Makisu) ⭐ 1,516 | 🐛 10 | 🌐 CSS | 📅 2022-07-28 - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
 * [photon](https://github.com/thomasxiii/photon) ⭐ 1,445 | 🐛 9 | 🌐 JavaScript | 📅 2012-06-25 - CSS 3D Lighting Engine photon.attasi.com
-* [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,013 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
+* [3dtransforms-3D](https://github.com/desandro/3dtransforms) ⭐ 1,014 | 🐛 6 | 🌐 CSS | 📅 2020-03-30 - Intro to CSS 3D transforms
 * [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) ⭐ 474 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-29 - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
 * [CSS3D.js](https://github.com/unconed/CSS3D.js) ⭐ 368 | 🐛 1 | 🌐 JavaScript | 📅 2012-11-22 - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
 * [css-space-shooter](https://github.com/michaelbromley/css-space-shooter) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-08 - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
@@ -58,7 +58,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 * [vintageJS](https://github.com/rendro/vintageJS) ⭐ 845 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Add a retro/vintage effect to images using the HTML5 canvas element
 * [Magnifier](https://github.com/mark-rolich/Magnifier.js) ⭐ 831 | 🐛 28 | 🌐 JavaScript | 📅 2022-09-17 - Javascript library enabling magnifying glass effect on an images
 * [diaporama](https://github.com/gre/diaporama) ⚠️ Archived - Diaporama is an image/video/content slideshow engine providing high quality animation effects including Kenburns effect and GLSL Transitions.
-* [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 567 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
+* [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) ⭐ 566 | 🐛 3 | 🌐 HTML | 📅 2018-10-06 - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
 * [gridder](https://github.com/oriongunning/gridder) ⭐ 455 | 🐛 21 | 🌐 JavaScript | 📅 2025-10-07 - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images..
 * [ThumbnailGridExpandingPreview](https://github.com/codrops/ThumbnailGridExpandingPreview) ⭐ 357 | 🐛 28 | 🌐 JavaScript | 📅 2018-07-02 - A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.
 * [tiltedpage\_scroll](https://github.com/peachananr/tiltedpage_scroll) ⭐ 316 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-19 - Create a beautiful 3D tilted effect on scroll with jQuery Tilted Page Scroll plugin
@@ -114,7 +114,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Button Effect
 
-* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,267 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
+* [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) ⭐ 1,266 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-05 - A little library that can be used for bursting particles effects on buttons and other elements
 * [ElasticProgress](https://github.com/codrops/ElasticProgress) ⭐ 876 | 🐛 2 | 🌐 JavaScript | 📅 2015-12-14 - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
 * [MagneticButtons](https://github.com/codrops/MagneticButtons) ⭐ 484 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-24 - A set of buttons with a magnetic interaction and a hover effect.
 * [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) ⭐ 345 | 🐛 6 | 🌐 CSS | 📅 2019-04-15 - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
@@ -136,7 +136,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ### Audio Effect
 
-* [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) ⭐ 559 | 🐛 9 | 🌐 JavaScript | 📅 2024-07-23 - Live Audio Input effects
+* [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) ⭐ 560 | 🐛 9 | 🌐 JavaScript | 📅 2024-07-23 - Live Audio Input effects
 * [soma-fm-player](https://github.com/rainner/soma-fm-player) ⭐ 148 | 🐛 22 | 🌐 JavaScript | 📅 2026-07-15 - SomaFM Music Player Web-App
 * [beez](https://github.com/gre/beez) ⚠️ Archived - 100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)
 * [soundbank](https://github.com/mmckegg/soundbank-reverb) ⭐ 23 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-11 - Simple Web Audio API based reverb effect.
@@ -208,4 +208,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
