@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "tholman",
                 "repo": "cursor-effects",
-                "stars": 4103,
+                "stars": 4104,
                 "topics": [
                   "90s",
                   "canvas",
@@ -1185,7 +1185,7 @@
                 "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2663,
+                "stars": 2665,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1309,7 +1309,7 @@
                 "open_issues": 0,
                 "owner": "ics-ikeda",
                 "repo": "shuffle-text",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "effects",
                   "html5",
@@ -1695,7 +1695,7 @@
                 "open_issues": 2,
                 "owner": "nojvek",
                 "repo": "matrix-rain",
-                "stars": 445,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -1916,7 +1916,7 @@
                 "open_issues": 2,
                 "owner": "codrops",
                 "repo": "ElasticProgress",
-                "stars": 876,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3033,7 +3033,7 @@
                 "open_issues": 7,
                 "owner": "filipedeschamps",
                 "repo": "doom-fire-algorithm",
-                "stars": 1620,
+                "stars": 1622,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:23:14.260Z"
@@ -3418,7 +3418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:53:43.016Z",
+    "last_updated": "2026-11-26T05:43:58.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A series of exquisite and compact web page cool effects",
@@ -3430,7 +3430,7 @@
       "open_issues": 2,
       "owner": "lindelof",
       "repo": "awesome-web-effect",
-      "stars": 3169,
+      "stars": 3170,
       "topics": [
         "awesome",
         "web-effect"
